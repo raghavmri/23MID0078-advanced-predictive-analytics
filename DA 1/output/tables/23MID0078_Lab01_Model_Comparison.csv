@@ -1,0 +1,4 @@
+Model,Registration_No,MAE,MSE,RMSE,R2_Score
+RandomForestRegressor,23MID0078,3.7557,20.1836,4.4926,0.9956
+GradientBoostingRegressor,23MID0078,4.5759,25.3424,5.0341,0.9945
+RidgeRegressor,23MID0078,5.8506,44.1408,6.6439,0.9904

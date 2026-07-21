@@ -1,0 +1,24 @@
+{
+    "registration_number": "23MID0078",
+    "course_code": "MD13003 - Advanced Predictive Analytics",
+    "execution_timestamp": "2026-07-21T17:23:19.457696+00:00",
+    "seed": 42,
+    "environment": {
+        "python_version": "3.13.5",
+        "platform": "Windows-11-10.0.26200-SP0"
+    },
+    "dataset": {
+        "path": "datasets/kaggle_housing_predictive_dataset.csv",
+        "samples": 40,
+        "features": 7
+    },
+    "best_model": "RandomForestRegressor",
+    "test_metrics": {
+        "Model": "RandomForestRegressor",
+        "Registration_No": "23MID0078",
+        "MAE": 3.7557,
+        "MSE": 20.1836,
+        "RMSE": 4.4926,
+        "R2_Score": 0.9956
+    }
+}
