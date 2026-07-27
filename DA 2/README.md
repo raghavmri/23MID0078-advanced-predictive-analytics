@@ -7,7 +7,7 @@ This notebook implements a binary classification workflow for the Breast Cancer 
 - Notebook: `DA 2.ipynb`
 - Language: Python
 - Random seed: `42`
-- Output directory: `C:\Users\mribl\Documents\GitHub\College\Sem 7\Advance Predictive Analysis\Lab\DA 2\output`
+- Output directory: `/output`
 - Saved model artifact: `lab02_decision_tree_artifact.joblib`
 
 ## Data Specification
