@@ -1,0 +1,4 @@
+dataset_id,model,accuracy,macro_f1,weighted_f1
+business_intent,multinomial_nb,1.0,1.0,1.0
+enron_spam,multinomial_nb,1.0,1.0,1.0
+spamassassin,multinomial_nb,1.0,1.0,1.0
