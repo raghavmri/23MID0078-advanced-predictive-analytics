@@ -1,0 +1,3 @@
+Location,Periods,Mean Count,Std Dev,Best Model,MAE,RMSE,Interpretation
+District 1 (Central / Downtown Loop),114,215.99,76.1,"ARIMA(1, 1, 1)",20.101,31.731,Commercial downtown corridor with high foot traffic and seasonal commercial volatility
+District 18 (Near North / Magnificent Mile),114,218.74,51.12,"ARIMA(1, 1, 1)",27.275,33.631,Tourism and retail district exhibiting strong summer/holiday seasonal peaks

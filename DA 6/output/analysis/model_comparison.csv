@@ -1,0 +1,5 @@
+Model,Order/Lags,Train AIC,Test MAE,Test RMSE,Ljung-Box p,Notes
+Naive Persistence,Last-Value,,18.583,29.996,,Heuristic baseline using most recent observed training count
+"ARIMA(1, 1, 1)","(1, 1, 1)",1133.58,20.101,31.731,0.9987,Optimal candidate chosen via minimum training AIC criterion
+"SARIMA(1,1,1)x(1,0,1,52)","(1,1,1)x(1,0,1,52)",991.72,20.932,32.644,0.9986,Seasonal ARIMA with annual 52-week periodicity
+AR(4),"p=4, trend='ct'",1102.472,55.165,61.785,0.999,Autoregressive model with linear constant and time trend

@@ -1,0 +1,32 @@
+{
+  "experiment_name": "Experiment 06 - Time-Series Analysis and Forecasting of Reported Crime Incidents",
+  "student_name": "Raghav Mritunajaya KS",
+  "registration_number": "23MID0078",
+  "faculty": "Dr. Durgesh Kumar",
+  "course": "MDI3003 - Advanced Predictive Analytics",
+  "dataset_source": "City of Chicago Reported Crimes (Socrata Open Data API)",
+  "api_endpoint": "https://data.cityofchicago.org/resource/ijzp-q8t2.json",
+  "primary_district": "001",
+  "secondary_district": "018",
+  "frequency": "W-MON",
+  "total_periods_d1": 114,
+  "train_periods_d1": 102,
+  "test_periods_d1": 12,
+  "adf_statistic": -2.0856,
+  "adf_pvalue": 0.2504,
+  "selected_ar_lags": 4,
+  "selected_arima_order": [
+    1,
+    1,
+    1
+  ],
+  "best_arima_aic": 1133.58,
+  "naive_test_mae": 18.583,
+  "ar_test_mae": 55.165,
+  "arima_test_mae": 20.101,
+  "sarima_test_mae": 20.932,
+  "rolling_origin_mean_mae": 29.993,
+  "rolling_origin_std_mae": 19.117,
+  "python_version": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0"
+}
