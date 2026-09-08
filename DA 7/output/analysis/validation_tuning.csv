@@ -1,0 +1,5 @@
+Config,Val_Recall@10,Val_NDCG@10,Val_PR_AUC,Val_ROC_AUC
+"{'n_estimators': 100, 'max_depth': 12, 'min_samples_leaf': 2, 'max_features': 'sqrt'}",0.3281440082586112,0.7284511837475134,0.788666385514281,0.8123309037458535
+"{'n_estimators': 200, 'max_depth': 16, 'min_samples_leaf': 2, 'max_features': 'sqrt'}",0.32675562564437816,0.7274187978930254,0.7887859646234023,0.8138015908031901
+"{'n_estimators': 200, 'max_depth': None, 'min_samples_leaf': 5, 'max_features': 'sqrt'}",0.327357408194072,0.7284038821893801,0.7898252891408378,0.813970122344803
+"{'n_estimators': 300, 'max_depth': 16, 'min_samples_leaf': 2, 'max_features': 'sqrt'}",0.3280251814244939,0.7288970350202478,0.7895283966441993,0.8145966638194648

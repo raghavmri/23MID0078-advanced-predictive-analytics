@@ -1,0 +1,17 @@
+{
+    "total_raw_rows": 541909,
+    "total_cleaned_rows": 397884,
+    "unique_customers": 4338,
+    "unique_items": 3665,
+    "date_min": "2010-12-01 08:26:00",
+    "date_max": "2011-12-09 12:50:00",
+    "cutoff_t0": "2011-07-26 14:56:00",
+    "cutoff_t1_train_end": "2011-10-09 10:23:36",
+    "cutoff_t2_val_end": "2011-11-11 12:44:00",
+    "train_hist_rows": 278519,
+    "train_hist_users": 3707,
+    "val_future_rows": 59563,
+    "val_future_users": 1610,
+    "test_future_rows": 59802,
+    "test_future_users": 1553
+}

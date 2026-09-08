@@ -1,0 +1,8 @@
+{
+    "policy_name": "top_1000_frequent_in_training_history",
+    "catalog_size": 1000,
+    "selection_metric": "unique_invoices_in_train_hist",
+    "repeat_purchases_allowed": true,
+    "bounded_range_min": 500,
+    "bounded_range_max": 2000
+}

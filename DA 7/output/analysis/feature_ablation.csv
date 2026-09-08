@@ -1,0 +1,5 @@
+Feature_Set,Validation_Recall@10,Test_Recall@10,Test_NDCG@10,Observation
+All core features,0.3281440082586112,0.1720012715896851,0.3200018094991818,Full baseline performance
+Without pair history,0.24433432738777275,0.026918826884507165,0.06797301722619402,Severe drop highlighting critical role of repeat purchase propensity
+Without customer RFM,0.32670884792161003,0.170272577392956,0.31967626520635434,Moderate decrease showing personalization reliance on historical frequency
+Without item popularity,0.42381567383955404,0.1684094520933208,0.32242774223824816,Moderate drop showing global item demand is necessary for disambiguation

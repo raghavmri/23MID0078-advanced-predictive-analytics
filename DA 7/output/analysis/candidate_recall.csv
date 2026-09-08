@@ -1,0 +1,3 @@
+Split,Evaluation_Users,Candidate_Catalog_Size,Aggregate_Candidate_Recall,Fully_Representable_Users_Pct
+Validation,1214,1000,0.6878713949113257,9.390444810543658
+Test,1318,1000,0.6836640310258407,11.077389984825494
