@@ -1,15 +1,3 @@
-# Experiment 08: Agricultural Predictive Analytics
-## Crop Yield Prediction with a Guided Crop-Label Classification Extension
-
-**Course:** MDI3003 — Advanced Predictive Analytics  
-**Laboratory Assignment:** Digital Assignment 08 (DA 8)  
-**Student Name:** Raghav Mritunajaya KS  
-**Registration Number:** 23MID0078  
-**Department:** School of Computer Science and Engineering (SCOPE), VIT Vellore  
-**Academic Term:** Fall Semester 2026–2027  
-
----
-
 ### Project Overview
 This repository contains the complete implementation, rigorous prospective backtesting, diagnostic error audits, and academic reporting for **Experiment 08: Agricultural Predictive Analytics**. The study investigates prospective district-level rice yield forecasting across Indian agro-ecological zones, coupled with a guided soil and climate multiclass crop recommendation classification extension.
 
