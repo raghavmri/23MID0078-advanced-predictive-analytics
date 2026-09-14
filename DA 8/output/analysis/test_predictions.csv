@@ -1,0 +1,1115 @@
+row_id,state,district,season,year,yield_t_ha,prediction,error
+D5_1_2014,Chhattisgarh,Durg,Annual,2014,1.855,1.5361,0.3189
+D5_1_2015,Chhattisgarh,Durg,Annual,2015,1.342,1.554,0.212
+D5_2_2014,Chhattisgarh,Bastar,Annual,2014,1.824,1.3578,0.4662
+D5_2_2015,Chhattisgarh,Bastar,Annual,2015,0.824,1.3757,0.5517
+D5_3_2014,Chhattisgarh,Raipur,Annual,2014,2.023,1.5321,0.4909
+D5_3_2015,Chhattisgarh,Raipur,Annual,2015,1.597,1.5501,0.0469
+D5_4_2014,Chhattisgarh,Bilaspur,Annual,2014,2.006,1.5111,0.4949
+D5_4_2015,Chhattisgarh,Bilaspur,Annual,2015,1.163,1.529,0.366
+D5_5_2014,Chhattisgarh,Raigarh,Annual,2014,1.61,1.3676,0.2424
+D5_5_2015,Chhattisgarh,Raigarh,Annual,2015,1.103,1.3855,0.2825
+D5_6_2014,Chhattisgarh,Surguja,Annual,2014,1.762,1.2375,0.5245
+D5_6_2015,Chhattisgarh,Surguja,Annual,2015,1.435,1.2554,0.1796
+D5_7_2014,Madhya Pradesh,Jabalpur,Annual,2014,1.083,1.0325,0.0505
+D5_7_2015,Madhya Pradesh,Jabalpur,Annual,2015,0.879,1.0505,0.1715
+D5_8_2014,Madhya Pradesh,Balaghat,Annual,2014,1.834,1.3919,0.4421
+D5_8_2015,Madhya Pradesh,Balaghat,Annual,2015,1.674,1.4099,0.2641
+D5_9_2014,Madhya Pradesh,Chhindwara,Annual,2014,2.4,1.0508,1.3492
+D5_9_2015,Madhya Pradesh,Chhindwara,Annual,2015,1.742,1.0687,0.6733
+D5_10_2014,Madhya Pradesh,Narsinghpur,Annual,2014,1.407,1.3087,0.0983
+D5_10_2015,Madhya Pradesh,Narsinghpur,Annual,2015,2.627,1.3266,1.3004
+D5_11_2014,Madhya Pradesh,Seoni,Annual,2014,1.434,1.2829,0.1511
+D5_11_2015,Madhya Pradesh,Seoni,Annual,2015,1.412,1.3008,0.1112
+D5_12_2014,Madhya Pradesh,Mandla,Annual,2014,1.023,0.9287,0.0943
+D5_12_2015,Madhya Pradesh,Mandla,Annual,2015,1.985,0.9467,1.0383
+D5_13_2014,Madhya Pradesh,Sagar,Annual,2014,1.066,0.8418,0.2242
+D5_13_2015,Madhya Pradesh,Sagar,Annual,2015,0.286,0.8598,0.5738
+D5_14_2014,Madhya Pradesh,Damoh,Annual,2014,1.071,0.9079,0.1631
+D5_14_2015,Madhya Pradesh,Damoh,Annual,2015,1.132,0.9258,0.2062
+D5_15_2014,Madhya Pradesh,Tikamgarh,Annual,2014,0.41,0.8918,0.4818
+D5_15_2015,Madhya Pradesh,Tikamgarh,Annual,2015,0.112,0.9097,0.7977
+D5_16_2014,Madhya Pradesh,Chhatarpur,Annual,2014,0.867,0.9181,0.0511
+D5_16_2015,Madhya Pradesh,Chhatarpur,Annual,2015,0.334,0.936,0.602
+D5_17_2014,Madhya Pradesh,Panna,Annual,2014,1.369,0.8172,0.5518
+D5_17_2015,Madhya Pradesh,Panna,Annual,2015,0.315,0.8351,0.5201
+D5_18_2014,Madhya Pradesh,Rewa,Annual,2014,1.809,0.9592,0.8498
+D5_18_2015,Madhya Pradesh,Rewa,Annual,2015,0.948,0.9771,0.0291
+D5_19_2014,Madhya Pradesh,Sidhi,Annual,2014,0.857,0.8823,0.0253
+D5_19_2015,Madhya Pradesh,Sidhi,Annual,2015,0.648,0.9003,0.2523
+D5_20_2014,Madhya Pradesh,Satna,Annual,2014,1.936,0.9053,1.0307
+D5_20_2015,Madhya Pradesh,Satna,Annual,2015,2.288,0.9233,1.3647
+D5_21_2014,Madhya Pradesh,Shahdol,Annual,2014,1.965,1.0552,0.9098
+D5_21_2015,Madhya Pradesh,Shahdol,Annual,2015,1.673,1.0731,0.5999
+D5_22_2014,Madhya Pradesh,Gwalior,Annual,2014,2.272,2.2311,0.0409
+D5_22_2015,Madhya Pradesh,Gwalior,Annual,2015,2.83,2.249,0.581
+D5_23_2014,Madhya Pradesh,Shivpuri,Annual,2014,1.238,1.2647,0.0267
+D5_23_2015,Madhya Pradesh,Shivpuri,Annual,2015,2.485,1.2827,1.2023
+D5_24_2014,Madhya Pradesh,Guna,Annual,2014,3.33,1.0041,2.3259
+D5_24_2015,Madhya Pradesh,Guna,Annual,2015,1.335,1.0221,0.3129
+D5_25_2014,Madhya Pradesh,Datia,Annual,2014,0.978,1.1909,0.2129
+D5_25_2015,Madhya Pradesh,Datia,Annual,2015,1.714,1.2088,0.5052
+D5_26_2014,Madhya Pradesh,Morena,Annual,2014,3.33,2.3031,1.0269
+D5_26_2015,Madhya Pradesh,Morena,Annual,2015,4.0,2.3211,1.6789
+D5_27_2014,Madhya Pradesh,Bhind,Annual,2014,3.445,2.2407,1.2043
+D5_27_2015,Madhya Pradesh,Bhind,Annual,2015,4.555,2.2586,2.2964
+D5_28_2014,Madhya Pradesh,Indore,Annual,2014,0.0,0.4968,0.4968
+D5_28_2015,Madhya Pradesh,Indore,Annual,2015,0.0,0.5148,0.5148
+D5_29_2014,Madhya Pradesh,Ratlam,Annual,2014,0.0,0.8841,0.8841
+D5_29_2015,Madhya Pradesh,Ratlam,Annual,2015,0.0,0.902,0.902
+D5_30_2014,Madhya Pradesh,Ujjain,Annual,2014,0.0,0.4482,0.4482
+D5_30_2015,Madhya Pradesh,Ujjain,Annual,2015,0.0,0.4661,0.4661
+D5_31_2014,Madhya Pradesh,Mandsaur,Annual,2014,0.0,0.5125,0.5125
+D5_31_2015,Madhya Pradesh,Mandsaur,Annual,2015,0.0,0.5304,0.5304
+D5_32_2014,Madhya Pradesh,Dewas,Annual,2014,0.67,0.8877,0.2177
+D5_32_2015,Madhya Pradesh,Dewas,Annual,2015,0.0,0.9056,0.9056
+D5_33_2014,Madhya Pradesh,Dhar,Annual,2014,0.67,0.8215,0.1515
+D5_33_2015,Madhya Pradesh,Dhar,Annual,2015,0.0,0.8395,0.8395
+D5_34_2014,Madhya Pradesh,Jhabua,Annual,2014,0.606,0.7429,0.1369
+D5_34_2015,Madhya Pradesh,Jhabua,Annual,2015,0.6,0.7608,0.1608
+D5_35_2014,Madhya Pradesh,Khargone,Annual,2014,2.0,0.799,1.201
+D5_35_2015,Madhya Pradesh,Khargone,Annual,2015,0.0,0.8169,0.8169
+D5_36_2014,Madhya Pradesh,Khandwa,Annual,2014,1.25,1.1189,0.1311
+D5_36_2015,Madhya Pradesh,Khandwa,Annual,2015,0.476,1.1368,0.6608
+D5_37_2014,Madhya Pradesh,Sehore,Annual,2014,3.409,1.0455,2.3635
+D5_37_2015,Madhya Pradesh,Sehore,Annual,2015,3.945,1.0634,2.8816
+D5_38_2014,Madhya Pradesh,Raisen,Annual,2014,2.501,1.0543,1.4467
+D5_38_2015,Madhya Pradesh,Raisen,Annual,2015,2.29,1.0723,1.2177
+D5_39_2014,Madhya Pradesh,Vidisha,Annual,2014,0.833,0.9005,0.0675
+D5_39_2015,Madhya Pradesh,Vidisha,Annual,2015,1.333,0.9184,0.4146
+D5_40_2014,Madhya Pradesh,Betul,Annual,2014,2.241,1.1951,1.0459
+D5_40_2015,Madhya Pradesh,Betul,Annual,2015,1.714,1.213,0.501
+D5_41_2014,Madhya Pradesh,Rajgarh,Annual,2014,0.67,0.8258,0.1558
+D5_41_2015,Madhya Pradesh,Rajgarh,Annual,2015,1.33,0.8437,0.4863
+D5_42_2014,Madhya Pradesh,Shajapur,Annual,2014,0.0,0.8743,0.8743
+D5_42_2015,Madhya Pradesh,Shajapur,Annual,2015,0.0,0.8922,0.8922
+D5_43_2014,Madhya Pradesh,Hoshangabad,Annual,2014,1.861,1.5504,0.3106
+D5_43_2015,Madhya Pradesh,Hoshangabad,Annual,2015,2.889,1.5683,1.3207
+D5_44_2014,Andhra Pradesh,Srikakulam,Annual,2014,2.13,2.2568,0.1268
+D5_44_2015,Andhra Pradesh,Srikakulam,Annual,2015,2.311,2.2747,0.0363
+D5_45_2014,Andhra Pradesh,Visakhapatnam,Annual,2014,1.687,1.8038,0.1168
+D5_45_2015,Andhra Pradesh,Visakhapatnam,Annual,2015,2.14,1.8217,0.3183
+D5_46_2014,Andhra Pradesh,East Godavari,Annual,2014,3.966,3.3112,0.6548
+D5_46_2015,Andhra Pradesh,East Godavari,Annual,2015,3.787,3.3291,0.4579
+D5_47_2014,Andhra Pradesh,West Godavari,Annual,2014,3.969,3.4601,0.5089
+D5_47_2015,Andhra Pradesh,West Godavari,Annual,2015,3.86,3.478,0.382
+D5_48_2014,Andhra Pradesh,Krishna,Annual,2014,3.468,3.2622,0.2058
+D5_48_2015,Andhra Pradesh,Krishna,Annual,2015,3.456,3.2801,0.1759
+D5_49_2014,Andhra Pradesh,Guntur,Annual,2014,3.897,3.3741,0.5229
+D5_49_2015,Andhra Pradesh,Guntur,Annual,2015,2.909,3.392,0.483
+D5_50_2014,Andhra Pradesh,S.P.S. Nellore,Annual,2014,4.026,3.323,0.703
+D5_50_2015,Andhra Pradesh,S.P.S. Nellore,Annual,2015,4.474,3.3409,1.1331
+D5_51_2014,Andhra Pradesh,Kurnool,Annual,2014,3.866,3.1197,0.7463
+D5_51_2015,Andhra Pradesh,Kurnool,Annual,2015,3.087,3.1376,0.0506
+D5_52_2014,Andhra Pradesh,Anantapur,Annual,2014,2.825,2.7892,0.0358
+D5_52_2015,Andhra Pradesh,Anantapur,Annual,2015,2.905,2.8072,0.0978
+D5_53_2014,Andhra Pradesh,Kadapa Ysr,Annual,2014,3.614,2.7961,0.8179
+D5_53_2015,Andhra Pradesh,Kadapa Ysr,Annual,2015,3.058,2.814,0.244
+D5_54_2014,Andhra Pradesh,Chittoor,Annual,2014,3.232,2.7738,0.4582
+D5_54_2015,Andhra Pradesh,Chittoor,Annual,2015,3.795,2.7917,1.0033
+D5_55_2014,Telangana,Hyderabad,Annual,2014,0.0,0.7861,0.7861
+D5_55_2015,Telangana,Hyderabad,Annual,2015,0.0,0.804,0.804
+D5_56_2014,Telangana,Nizamabad,Annual,2014,3.666,2.9358,0.7302
+D5_56_2015,Telangana,Nizamabad,Annual,2015,2.681,2.9538,0.2728
+D5_57_2014,Telangana,Medak,Annual,2014,3.274,2.6167,0.6573
+D5_57_2015,Telangana,Medak,Annual,2015,2.849,2.6346,0.2144
+D5_58_2014,Telangana,Mahabubnagar,Annual,2014,2.601,2.4769,0.1241
+D5_58_2015,Telangana,Mahabubnagar,Annual,2015,2.233,2.4949,0.2619
+D5_59_2014,Telangana,Nalgonda,Annual,2014,3.22,3.0614,0.1586
+D5_59_2015,Telangana,Nalgonda,Annual,2015,2.917,3.0793,0.1623
+D5_60_2014,Telangana,Warangal,Annual,2014,3.08,2.8631,0.2169
+D5_60_2015,Telangana,Warangal,Annual,2015,3.164,2.881,0.283
+D5_61_2014,Telangana,Khammam,Annual,2014,3.131,2.8132,0.3178
+D5_61_2015,Telangana,Khammam,Annual,2015,3.034,2.8311,0.2029
+D5_62_2014,Telangana,Karimnagar,Annual,2014,3.559,3.2185,0.3405
+D5_62_2015,Telangana,Karimnagar,Annual,2015,3.251,3.2364,0.0146
+D5_63_2014,Telangana,Adilabad,Annual,2014,2.519,2.2992,0.2198
+D5_63_2015,Telangana,Adilabad,Annual,2015,2.637,2.3172,0.3198
+D5_65_2014,Karnataka,Kolar,Annual,2014,2.559,2.488,0.071
+D5_65_2015,Karnataka,Kolar,Annual,2015,1.525,2.506,0.981
+D5_66_2014,Karnataka,Tumkur,Annual,2014,2.832,2.8691,0.0371
+D5_66_2015,Karnataka,Tumkur,Annual,2015,2.818,2.8871,0.0691
+D5_67_2014,Karnataka,Mysore,Annual,2014,3.394,3.2067,0.1873
+D5_67_2015,Karnataka,Mysore,Annual,2015,3.382,3.2246,0.1574
+D5_68_2014,Karnataka,Mandya,Annual,2014,3.69,3.3263,0.3637
+D5_68_2015,Karnataka,Mandya,Annual,2015,3.665,3.3442,0.3208
+D5_69_2014,Karnataka,Hassan,Annual,2014,3.043,2.6758,0.3672
+D5_69_2015,Karnataka,Hassan,Annual,2015,2.734,2.6937,0.0403
+D5_70_2014,Karnataka,Shimoge,Annual,2014,3.036,2.5754,0.4606
+D5_70_2015,Karnataka,Shimoge,Annual,2015,2.606,2.5933,0.0127
+D5_71_2014,Karnataka,Chickmagalur,Annual,2014,2.61,2.6247,0.0147
+D5_71_2015,Karnataka,Chickmagalur,Annual,2015,2.673,2.6426,0.0304
+D5_72_2014,Karnataka,Chitradurga,Annual,2014,2.172,2.8287,0.6567
+D5_72_2015,Karnataka,Chitradurga,Annual,2015,2.377,2.8467,0.4697
+D5_73_2014,Karnataka,Bellary,Annual,2014,3.44,3.3631,0.0769
+D5_73_2015,Karnataka,Bellary,Annual,2015,3.645,3.381,0.264
+D5_74_2014,Karnataka,Dharwad,Annual,2014,1.594,1.376,0.218
+D5_74_2015,Karnataka,Dharwad,Annual,2015,0.306,1.394,1.088
+D5_75_2014,Karnataka,Belgaum,Annual,2014,2.948,1.7777,1.1703
+D5_75_2015,Karnataka,Belgaum,Annual,2015,0.666,1.7956,1.1296
+D5_76_2014,Karnataka,Bijapur,Annual,2014,3.0,2.1321,0.8679
+D5_76_2015,Karnataka,Bijapur,Annual,2015,2.8,2.15,0.65
+D5_77_2014,Karnataka,Bidar,Annual,2014,0.966,0.9885,0.0225
+D5_77_2015,Karnataka,Bidar,Annual,2015,0.852,1.0064,0.1544
+D5_78_2014,Karnataka,Raichur,Annual,2014,3.032,3.11,0.078
+D5_78_2015,Karnataka,Raichur,Annual,2015,3.044,3.1279,0.0839
+D5_79_2014,Karnataka,Gulbarga,Annual,2014,1.392,2.258,0.866
+D5_79_2015,Karnataka,Gulbarga,Annual,2015,2.088,2.2759,0.1879
+D5_80_2014,Karnataka,Dakshina Kannada,Annual,2014,2.541,2.4047,0.1363
+D5_80_2015,Karnataka,Dakshina Kannada,Annual,2015,2.657,2.4226,0.2344
+D5_81_2014,Karnataka,Uttara Kannada,Annual,2014,2.229,2.0179,0.2111
+D5_81_2015,Karnataka,Uttara Kannada,Annual,2015,1.658,2.0358,0.3778
+D5_82_2014,Karnataka,Kodagu,Annual,2014,2.807,2.5793,0.2277
+D5_82_2015,Karnataka,Kodagu,Annual,2015,2.699,2.5972,0.1018
+D5_83_2014,Tamil Nadu,Chengalpattu Mgr / Kancheepuram,Annual,2014,4.685,3.5771,1.1079
+D5_83_2015,Tamil Nadu,Chengalpattu Mgr / Kancheepuram,Annual,2015,4.249,3.595,0.654
+D5_84_2014,Tamil Nadu,South Arcot / Cuddalore,Annual,2014,4.767,3.2539,1.5131
+D5_84_2015,Tamil Nadu,South Arcot / Cuddalore,Annual,2015,3.623,3.2719,0.3511
+D5_85_2014,Tamil Nadu,North Arcot / Vellore,Annual,2014,5.323,3.5456,1.7774
+D5_85_2015,Tamil Nadu,North Arcot / Vellore,Annual,2015,3.906,3.5636,0.3424
+D5_86_2014,Tamil Nadu,Salem,Annual,2014,5.313,4.0238,1.2892
+D5_86_2015,Tamil Nadu,Salem,Annual,2015,4.959,4.0417,0.9173
+D5_87_2014,Tamil Nadu,Coimbatore,Annual,2014,4.594,3.6511,0.9429
+D5_87_2015,Tamil Nadu,Coimbatore,Annual,2015,3.911,3.669,0.242
+D5_88_2014,Tamil Nadu,Tiruchirapalli / Trichy,Annual,2014,4.685,3.8167,0.8683
+D5_88_2015,Tamil Nadu,Tiruchirapalli / Trichy,Annual,2015,4.17,3.8347,0.3353
+D5_89_2014,Tamil Nadu,Thanjavur,Annual,2014,3.916,3.2292,0.6868
+D5_89_2015,Tamil Nadu,Thanjavur,Annual,2015,3.59,3.2471,0.3429
+D5_90_2014,Tamil Nadu,Madurai,Annual,2014,4.139,3.9625,0.1765
+D5_90_2015,Tamil Nadu,Madurai,Annual,2015,3.638,3.9804,0.3424
+D5_91_2014,Tamil Nadu,Ramananthapuram,Annual,2014,3.621,1.8924,1.7286
+D5_91_2015,Tamil Nadu,Ramananthapuram,Annual,2015,2.603,1.9103,0.6927
+D5_92_2014,Tamil Nadu,Thirunelveli,Annual,2014,5.108,4.2952,0.8128
+D5_92_2015,Tamil Nadu,Thirunelveli,Annual,2015,4.958,4.3131,0.6449
+D5_93_2014,Tamil Nadu,The Nilgiris,Annual,2014,5.0,3.3886,1.6114
+D5_93_2015,Tamil Nadu,The Nilgiris,Annual,2015,4.438,3.4065,1.0315
+D5_94_2014,Tamil Nadu,Kanyakumari,Annual,2014,5.079,4.3044,0.7746
+D5_94_2015,Tamil Nadu,Kanyakumari,Annual,2015,4.305,4.3223,0.0173
+D5_96_2014,Maharashtra,Thane,Annual,2014,2.421,2.2711,0.1499
+D5_96_2015,Maharashtra,Thane,Annual,2015,2.26,2.2891,0.0291
+D5_97_2014,Maharashtra,Raigad,Annual,2014,2.8,2.5354,0.2646
+D5_97_2015,Maharashtra,Raigad,Annual,2015,2.94,2.5534,0.3866
+D5_98_2014,Maharashtra,Ratnagiri,Annual,2014,3.041,2.6601,0.3809
+D5_98_2015,Maharashtra,Ratnagiri,Annual,2015,2.452,2.678,0.226
+D5_99_2014,Maharashtra,Nasik,Annual,2014,1.218,1.3324,0.1144
+D5_99_2015,Maharashtra,Nasik,Annual,2015,1.453,1.3503,0.1027
+D5_100_2014,Maharashtra,Dhule,Annual,2014,0.0,1.0544,1.0544
+D5_100_2015,Maharashtra,Dhule,Annual,2015,1.174,1.0724,0.1016
+D5_101_2014,Maharashtra,Jalgaon,Annual,2014,0.0,1.1763,1.1763
+D5_101_2015,Maharashtra,Jalgaon,Annual,2015,0.0,1.1942,1.1942
+D5_102_2014,Maharashtra,Ahmednagar,Annual,2014,0.256,1.1697,0.9137
+D5_102_2015,Maharashtra,Ahmednagar,Annual,2015,1.229,1.1876,0.0414
+D5_103_2014,Maharashtra,Pune,Annual,2014,1.658,1.4329,0.2251
+D5_103_2015,Maharashtra,Pune,Annual,2015,1.965,1.4508,0.5142
+D5_104_2014,Maharashtra,Satara,Annual,2014,1.79,1.9701,0.1801
+D5_104_2015,Maharashtra,Satara,Annual,2015,1.512,1.988,0.476
+D5_105_2014,Maharashtra,Sangli,Annual,2014,2.026,2.3407,0.3147
+D5_105_2015,Maharashtra,Sangli,Annual,2015,1.92,2.3586,0.4386
+D5_106_2014,Maharashtra,Solapur,Annual,2014,0.25,1.0383,0.7883
+D5_106_2015,Maharashtra,Solapur,Annual,2015,0.0,1.0562,1.0562
+D5_107_2014,Maharashtra,Kolhapur,Annual,2014,3.029,2.6876,0.3414
+D5_107_2015,Maharashtra,Kolhapur,Annual,2015,2.461,2.7056,0.2446
+D5_108_2014,Maharashtra,Aurangabad,Annual,2014,0.0,1.1699,1.1699
+D5_108_2015,Maharashtra,Aurangabad,Annual,2015,0.0,1.1878,1.1878
+D5_109_2014,Maharashtra,Parbhani,Annual,2014,0.0,0.7706,0.7706
+D5_109_2015,Maharashtra,Parbhani,Annual,2015,0.0,0.7885,0.7885
+D5_110_2014,Maharashtra,Beed,Annual,2014,0.25,0.8101,0.5601
+D5_110_2015,Maharashtra,Beed,Annual,2015,0.0,0.828,0.828
+D5_111_2014,Maharashtra,Nanded,Annual,2014,0.125,0.8861,0.7611
+D5_111_2015,Maharashtra,Nanded,Annual,2015,0.25,0.904,0.654
+D5_112_2014,Maharashtra,Osmanabad,Annual,2014,0.191,0.7029,0.5119
+D5_112_2015,Maharashtra,Osmanabad,Annual,2015,0.097,0.7208,0.6238
+D5_113_2014,Maharashtra,Buldhana,Annual,2014,0.0,0.715,0.715
+D5_113_2015,Maharashtra,Buldhana,Annual,2015,0.0,0.7329,0.7329
+D5_114_2014,Maharashtra,Akola,Annual,2014,0.0,0.5532,0.5532
+D5_114_2015,Maharashtra,Akola,Annual,2015,0.0,0.5711,0.5711
+D5_115_2014,Maharashtra,Amarawati,Annual,2014,0.302,0.9289,0.6269
+D5_115_2015,Maharashtra,Amarawati,Annual,2015,0.214,0.9468,0.7328
+D5_116_2014,Maharashtra,Yeotmal,Annual,2014,0.0,0.9448,0.9448
+D5_116_2015,Maharashtra,Yeotmal,Annual,2015,0.0,0.9628,0.9628
+D5_117_2014,Maharashtra,Wardha,Annual,2014,0.0,0.9077,0.9077
+D5_117_2015,Maharashtra,Wardha,Annual,2015,0.0,0.9257,0.9257
+D5_118_2014,Maharashtra,Nagpur,Annual,2014,1.212,1.4393,0.2273
+D5_118_2015,Maharashtra,Nagpur,Annual,2015,1.21,1.4572,0.2472
+D5_119_2014,Maharashtra,Bhandara,Annual,2014,1.645,1.5238,0.1212
+D5_119_2015,Maharashtra,Bhandara,Annual,2015,1.511,1.5417,0.0307
+D5_120_2014,Maharashtra,Chandrapur,Annual,2014,0.778,1.4971,0.7191
+D5_120_2015,Maharashtra,Chandrapur,Annual,2015,0.839,1.515,0.676
+D5_121_2014,Gujarat,Ahmedabad,Annual,2014,2.682,1.9167,0.7653
+D5_121_2015,Gujarat,Ahmedabad,Annual,2015,2.601,1.9346,0.6664
+D5_122_2014,Gujarat,Amreli,Annual,2014,0.0,0.6393,0.6393
+D5_122_2015,Gujarat,Amreli,Annual,2015,0.0,0.6572,0.6572
+D5_123_2014,Gujarat,Banaskantha,Annual,2014,0.0,0.7806,0.7806
+D5_123_2015,Gujarat,Banaskantha,Annual,2015,1.125,0.7986,0.3264
+D5_124_2014,Gujarat,Bharuch,Annual,2014,2.135,1.4958,0.6392
+D5_124_2015,Gujarat,Bharuch,Annual,2015,1.98,1.5137,0.4663
+D5_125_2014,Gujarat,Vadodara,Annual,2014,1.767,1.2402,0.5268
+D5_125_2015,Gujarat,Vadodara,Annual,2015,1.735,1.2582,0.4768
+D5_126_2014,Gujarat,Bhavnagar,Annual,2014,0.0,1.2844,1.2844
+D5_126_2015,Gujarat,Bhavnagar,Annual,2015,0.0,1.3023,1.3023
+D5_127_2014,Gujarat,Valsad,Annual,2014,2.075,2.2665,0.1915
+D5_127_2015,Gujarat,Valsad,Annual,2015,2.438,2.2844,0.1536
+D5_128_2014,Gujarat,Dangs,Annual,2014,1.494,1.4209,0.0731
+D5_128_2015,Gujarat,Dangs,Annual,2015,1.973,1.4389,0.5341
+D5_129_2014,Gujarat,Jamnagar,Annual,2014,0.0,0.2914,0.2914
+D5_129_2015,Gujarat,Jamnagar,Annual,2015,0.0,0.3093,0.3093
+D5_130_2014,Gujarat,Junagadh,Annual,2014,0.0,1.1454,1.1454
+D5_130_2015,Gujarat,Junagadh,Annual,2015,0.0,1.1633,1.1633
+D5_131_2014,Gujarat,Kheda,Annual,2014,2.563,2.0872,0.4758
+D5_131_2015,Gujarat,Kheda,Annual,2015,2.521,2.1051,0.4159
+D5_132_2014,Gujarat,Kutch,Annual,2014,0.0,0.2914,0.2914
+D5_132_2015,Gujarat,Kutch,Annual,2015,0.0,0.3093,0.3093
+D5_133_2014,Gujarat,Mehsana,Annual,2014,2.651,1.9716,0.6794
+D5_133_2015,Gujarat,Mehsana,Annual,2015,2.408,1.9895,0.4185
+D5_134_2014,Gujarat,Panchmahal,Annual,2014,1.084,0.9656,0.1184
+D5_134_2015,Gujarat,Panchmahal,Annual,2015,1.046,0.9835,0.0625
+D5_135_2014,Gujarat,Rajkot,Annual,2014,0.0,0.2914,0.2914
+D5_135_2015,Gujarat,Rajkot,Annual,2015,0.0,0.3093,0.3093
+D5_136_2014,Gujarat,Sabarkantha,Annual,2014,2.402,1.8818,0.5202
+D5_136_2015,Gujarat,Sabarkantha,Annual,2015,3.138,1.8997,1.2383
+D5_137_2014,Gujarat,Surat,Annual,2014,2.272,2.2974,0.0254
+D5_137_2015,Gujarat,Surat,Annual,2015,2.278,2.3153,0.0373
+D5_138_2014,Gujarat,Surendranagar,Annual,2014,0.0,1.793,1.793
+D5_138_2015,Gujarat,Surendranagar,Annual,2015,2.515,1.811,0.704
+D5_139_2014,Rajasthan,Ajmer,Annual,2014,2.0,1.6163,0.3837
+D5_139_2015,Rajasthan,Ajmer,Annual,2015,0.0,1.6342,1.6342
+D5_140_2014,Rajasthan,Alwar,Annual,2014,2.2,1.6118,0.5882
+D5_140_2015,Rajasthan,Alwar,Annual,2015,2.0,1.6298,0.3702
+D5_141_2014,Rajasthan,Banswara,Annual,2014,0.637,0.9375,0.3005
+D5_141_2015,Rajasthan,Banswara,Annual,2015,0.505,0.9555,0.4505
+D5_142_2014,Rajasthan,Barmer,Annual,2014,0.0,0.2868,0.2868
+D5_142_2015,Rajasthan,Barmer,Annual,2015,0.0,0.3047,0.3047
+D5_143_2014,Rajasthan,Bharatpur,Annual,2014,2.192,1.6617,0.5303
+D5_143_2015,Rajasthan,Bharatpur,Annual,2015,2.335,1.6796,0.6554
+D5_144_2014,Rajasthan,Bhilwara,Annual,2014,2.196,1.56,0.636
+D5_144_2015,Rajasthan,Bhilwara,Annual,2015,2.0,1.5779,0.4221
+D5_145_2014,Rajasthan,Bikaner,Annual,2014,2.0,1.4358,0.5642
+D5_145_2015,Rajasthan,Bikaner,Annual,2015,1.5,1.4538,0.0462
+D5_146_2014,Rajasthan,Bundi,Annual,2014,2.221,1.6978,0.5232
+D5_146_2015,Rajasthan,Bundi,Annual,2015,2.228,1.7157,0.5123
+D5_147_2014,Rajasthan,Chittorgarh,Annual,2014,2.176,1.5356,0.6404
+D5_147_2015,Rajasthan,Chittorgarh,Annual,2015,2.01,1.5535,0.4565
+D5_148_2014,Rajasthan,Churu,Annual,2014,0.0,0.2868,0.2868
+D5_148_2015,Rajasthan,Churu,Annual,2015,0.0,0.3047,0.3047
+D5_149_2014,Rajasthan,Dungarpur,Annual,2014,0.697,0.8814,0.1844
+D5_149_2015,Rajasthan,Dungarpur,Annual,2015,0.674,0.8993,0.2253
+D5_150_2014,Rajasthan,Ganganagar,Annual,2014,3.273,2.5304,0.7426
+D5_150_2015,Rajasthan,Ganganagar,Annual,2015,3.127,2.5483,0.5787
+D5_151_2014,Rajasthan,Jaipur,Annual,2014,0.0,0.7981,0.7981
+D5_151_2015,Rajasthan,Jaipur,Annual,2015,0.0,0.816,0.816
+D5_152_2014,Rajasthan,Jaisalmer,Annual,2014,0.0,0.2868,0.2868
+D5_152_2015,Rajasthan,Jaisalmer,Annual,2015,0.0,0.3047,0.3047
+D5_153_2014,Rajasthan,Jalore,Annual,2014,0.0,0.3303,0.3303
+D5_153_2015,Rajasthan,Jalore,Annual,2015,0.0,0.3482,0.3482
+D5_154_2014,Rajasthan,Jhalawar,Annual,2014,2.186,1.6572,0.5288
+D5_154_2015,Rajasthan,Jhalawar,Annual,2015,2.021,1.6751,0.3459
+D5_155_2014,Rajasthan,Jhunjhunu,Annual,2014,0.0,0.3586,0.3586
+D5_155_2015,Rajasthan,Jhunjhunu,Annual,2015,0.0,0.3766,0.3766
+D5_156_2014,Rajasthan,Jodhpur,Annual,2014,0.0,0.339,0.339
+D5_156_2015,Rajasthan,Jodhpur,Annual,2015,0.0,0.3569,0.3569
+D5_157_2014,Rajasthan,Kota,Annual,2014,2.233,2.0677,0.1653
+D5_157_2015,Rajasthan,Kota,Annual,2015,2.646,2.0856,0.5604
+D5_158_2014,Rajasthan,Nagaur,Annual,2014,0.0,0.2868,0.2868
+D5_158_2015,Rajasthan,Nagaur,Annual,2015,0.0,0.3047,0.3047
+D5_159_2014,Rajasthan,Pali,Annual,2014,0.0,0.7764,0.7764
+D5_159_2015,Rajasthan,Pali,Annual,2015,0.0,0.7943,0.7943
+D5_160_2014,Rajasthan,Swami Madhopur,Annual,2014,2.193,1.5311,0.6619
+D5_160_2015,Rajasthan,Swami Madhopur,Annual,2015,2.019,1.549,0.47
+D5_161_2014,Rajasthan,Sikar,Annual,2014,0.0,0.3448,0.3448
+D5_161_2015,Rajasthan,Sikar,Annual,2015,0.0,0.3627,0.3627
+D5_162_2014,Rajasthan,Sirohi,Annual,2014,0.0,1.3945,1.3945
+D5_162_2015,Rajasthan,Sirohi,Annual,2015,1.0,1.4124,0.4124
+D5_163_2014,Rajasthan,Tonk,Annual,2014,1.0,0.9279,0.0721
+D5_163_2015,Rajasthan,Tonk,Annual,2015,1.0,0.9458,0.0542
+D5_164_2014,Rajasthan,Udaipur,Annual,2014,1.074,0.9647,0.1093
+D5_164_2015,Rajasthan,Udaipur,Annual,2015,0.959,0.9826,0.0236
+D5_165_2014,Punjab,Gurdaspur,Annual,2014,2.613,3.2113,0.5983
+D5_165_2015,Punjab,Gurdaspur,Annual,2015,2.857,3.2292,0.3722
+D5_166_2014,Punjab,Amritsar,Annual,2014,2.775,3.1619,0.3869
+D5_166_2015,Punjab,Amritsar,Annual,2015,2.834,3.1798,0.3458
+D5_167_2014,Punjab,Kapurthala,Annual,2014,3.752,3.6635,0.0885
+D5_167_2015,Punjab,Kapurthala,Annual,2015,4.017,3.6814,0.3356
+D5_168_2014,Punjab,Jalandhar,Annual,2014,3.689,3.7372,0.0482
+D5_168_2015,Punjab,Jalandhar,Annual,2015,3.887,3.7551,0.1319
+D5_169_2014,Punjab,Hoshiarpur,Annual,2014,3.437,3.3284,0.1086
+D5_169_2015,Punjab,Hoshiarpur,Annual,2015,3.542,3.3463,0.1957
+D5_170_2014,Punjab,Roopnagar,Annual,2014,3.583,3.5937,0.0107
+D5_170_2015,Punjab,Roopnagar,Annual,2015,4.472,3.6116,0.8604
+D5_171_2014,Punjab,Ludhiana,Annual,2014,4.354,4.2361,0.1179
+D5_171_2015,Punjab,Ludhiana,Annual,2015,4.595,4.254,0.341
+D5_172_2014,Punjab,Ferozpur,Annual,2014,3.878,3.8815,0.0035
+D5_172_2015,Punjab,Ferozpur,Annual,2015,3.898,3.8994,0.0014
+D5_173_2014,Punjab,Faridkot,Annual,2014,3.972,3.9952,0.0232
+D5_173_2015,Punjab,Faridkot,Annual,2015,3.991,4.0131,0.0221
+D5_174_2014,Punjab,Bhatinda,Annual,2014,4.445,4.079,0.366
+D5_174_2015,Punjab,Bhatinda,Annual,2015,4.526,4.097,0.429
+D5_175_2014,Punjab,Sangrur,Annual,2014,4.727,4.2491,0.4779
+D5_175_2015,Punjab,Sangrur,Annual,2015,4.869,4.267,0.602
+D5_176_2014,Punjab,Patiala,Annual,2014,3.93,3.8446,0.0854
+D5_176_2015,Punjab,Patiala,Annual,2015,3.957,3.8625,0.0945
+D5_177_2014,Haryana,Hissar,Annual,2014,2.833,2.9803,0.1473
+D5_177_2015,Haryana,Hissar,Annual,2015,2.334,2.9982,0.6642
+D5_178_2014,Haryana,Sirsa,Annual,2014,3.646,3.5035,0.1425
+D5_178_2015,Haryana,Sirsa,Annual,2015,3.117,3.5214,0.4044
+D5_179_2014,Haryana,Bhiwani,Annual,2014,1.429,1.8763,0.4473
+D5_179_2015,Haryana,Bhiwani,Annual,2015,2.12,1.8942,0.2258
+D5_180_2014,Haryana,Gurgaon,Annual,2014,3.2,3.0557,0.1443
+D5_180_2015,Haryana,Gurgaon,Annual,2015,3.0,3.0736,0.0736
+D5_181_2014,Haryana,Jind,Annual,2014,2.683,2.6555,0.0275
+D5_181_2015,Haryana,Jind,Annual,2015,2.426,2.6734,0.2474
+D5_182_2014,Haryana,Mahendragarh,Annual,2014,0.0,0.3479,0.3479
+D5_182_2015,Haryana,Mahendragarh,Annual,2015,0.0,0.3658,0.3658
+D5_183_2014,Haryana,Ambala,Annual,2014,3.627,3.2587,0.3683
+D5_183_2015,Haryana,Ambala,Annual,2015,3.834,3.2766,0.5574
+D5_184_2014,Haryana,Karnal,Annual,2014,3.233,3.0338,0.1992
+D5_184_2015,Haryana,Karnal,Annual,2015,3.066,3.0518,0.0142
+D5_185_2014,Haryana,Kurukshetra,Annual,2014,3.519,3.498,0.021
+D5_185_2015,Haryana,Kurukshetra,Annual,2015,3.69,3.516,0.174
+D5_186_2014,Haryana,Rohtak,Annual,2014,2.244,2.1158,0.1282
+D5_186_2015,Haryana,Rohtak,Annual,2015,2.091,2.1337,0.0427
+D5_187_2014,Haryana,Sonepat,Annual,2014,2.534,2.4215,0.1125
+D5_187_2015,Haryana,Sonepat,Annual,2015,2.628,2.4394,0.1886
+D5_188_2014,Haryana,Faridabad,Annual,2014,2.727,2.8758,0.1488
+D5_188_2015,Haryana,Faridabad,Annual,2015,1.833,2.8937,1.0607
+D5_189_2014,Uttar Pradesh,Saharanpur,Annual,2014,2.488,2.5639,0.0759
+D5_189_2015,Uttar Pradesh,Saharanpur,Annual,2015,2.283,2.5818,0.2988
+D5_190_2014,Uttar Pradesh,Muzaffarnagar,Annual,2014,2.411,2.6643,0.2533
+D5_190_2015,Uttar Pradesh,Muzaffarnagar,Annual,2015,2.596,2.6822,0.0862
+D5_191_2014,Uttar Pradesh,Meerut,Annual,2014,2.964,2.5574,0.4066
+D5_191_2015,Uttar Pradesh,Meerut,Annual,2015,2.91,2.5753,0.3347
+D5_192_2014,Uttar Pradesh,Buland Shahar,Annual,2014,2.561,2.4091,0.1519
+D5_192_2015,Uttar Pradesh,Buland Shahar,Annual,2015,2.688,2.427,0.261
+D5_193_2014,Uttar Pradesh,Ghaziabad,Annual,2014,2.743,2.5291,0.2139
+D5_193_2015,Uttar Pradesh,Ghaziabad,Annual,2015,2.568,2.547,0.021
+D5_194_2014,Uttar Pradesh,Aligarh,Annual,2014,2.234,2.1303,0.1037
+D5_194_2015,Uttar Pradesh,Aligarh,Annual,2015,2.346,2.1483,0.1977
+D5_195_2014,Uttar Pradesh,Mathura,Annual,2014,2.323,2.4061,0.0831
+D5_195_2015,Uttar Pradesh,Mathura,Annual,2015,2.224,2.424,0.2
+D5_196_2014,Uttar Pradesh,Agra,Annual,2014,2.385,2.2193,0.1657
+D5_196_2015,Uttar Pradesh,Agra,Annual,2015,2.399,2.2372,0.1618
+D5_197_2014,Uttar Pradesh,Mainpuri,Annual,2014,2.608,2.3557,0.2523
+D5_197_2015,Uttar Pradesh,Mainpuri,Annual,2015,2.636,2.3736,0.2624
+D5_198_2014,Uttar Pradesh,Etah,Annual,2014,2.208,2.1647,0.0433
+D5_198_2015,Uttar Pradesh,Etah,Annual,2015,1.545,2.1826,0.6376
+D5_199_2014,Uttar Pradesh,Bareilly,Annual,2014,2.059,2.2276,0.1686
+D5_199_2015,Uttar Pradesh,Bareilly,Annual,2015,2.064,2.2455,0.1815
+D5_200_2014,Uttar Pradesh,Budaun,Annual,2014,2.053,1.9797,0.0733
+D5_200_2015,Uttar Pradesh,Budaun,Annual,2015,1.847,1.9976,0.1506
+D5_201_2014,Uttar Pradesh,Moradabad,Annual,2014,2.342,2.4834,0.1414
+D5_201_2015,Uttar Pradesh,Moradabad,Annual,2015,2.336,2.5014,0.1654
+D5_202_2014,Uttar Pradesh,Shahjahanpur,Annual,2014,2.805,2.569,0.236
+D5_202_2015,Uttar Pradesh,Shahjahanpur,Annual,2015,3.149,2.587,0.562
+D5_203_2014,Uttar Pradesh,Pilibhit,Annual,2014,2.626,2.8711,0.2451
+D5_203_2015,Uttar Pradesh,Pilibhit,Annual,2015,3.01,2.889,0.121
+D5_204_2014,Uttar Pradesh,Rampur,Annual,2014,2.26,2.4623,0.2023
+D5_204_2015,Uttar Pradesh,Rampur,Annual,2015,2.26,2.4802,0.2202
+D5_205_2014,Uttar Pradesh,Bijnor,Annual,2014,2.616,2.8908,0.2748
+D5_205_2015,Uttar Pradesh,Bijnor,Annual,2015,2.59,2.9087,0.3187
+D5_206_2014,Uttar Pradesh,Farrukhabad,Annual,2014,2.791,2.2712,0.5198
+D5_206_2015,Uttar Pradesh,Farrukhabad,Annual,2015,2.246,2.2891,0.0431
+D5_207_2014,Uttar Pradesh,Etawah,Annual,2014,2.586,2.5813,0.0047
+D5_207_2015,Uttar Pradesh,Etawah,Annual,2015,2.466,2.5992,0.1332
+D5_209_2014,Uttar Pradesh,Fatehpur,Annual,2014,1.946,2.097,0.151
+D5_209_2015,Uttar Pradesh,Fatehpur,Annual,2015,2.047,2.115,0.068
+D5_210_2014,Uttar Pradesh,Allahabad,Annual,2014,2.1,2.222,0.122
+D5_210_2015,Uttar Pradesh,Allahabad,Annual,2015,1.833,2.2399,0.4069
+D5_211_2014,Uttar Pradesh,Jhansi,Annual,2014,1.846,1.4289,0.4171
+D5_211_2015,Uttar Pradesh,Jhansi,Annual,2015,1.785,1.4468,0.3382
+D5_212_2014,Uttar Pradesh,Lalitpur,Annual,2014,0.781,0.9165,0.1355
+D5_212_2015,Uttar Pradesh,Lalitpur,Annual,2015,0.636,0.9344,0.2984
+D5_213_2014,Uttar Pradesh,Jalaun,Annual,2014,1.745,1.2527,0.4923
+D5_213_2015,Uttar Pradesh,Jalaun,Annual,2015,1.795,1.2706,0.5244
+D5_214_2014,Uttar Pradesh,Hamirpur,Annual,2014,1.75,1.4808,0.2692
+D5_214_2015,Uttar Pradesh,Hamirpur,Annual,2015,1.143,1.4987,0.3557
+D5_215_2014,Uttar Pradesh,Banda,Annual,2014,1.785,1.3577,0.4273
+D5_215_2015,Uttar Pradesh,Banda,Annual,2015,1.295,1.3756,0.0806
+D5_216_2014,Uttar Pradesh,Varanasi,Annual,2014,2.322,2.3394,0.0174
+D5_216_2015,Uttar Pradesh,Varanasi,Annual,2015,2.059,2.3574,0.2984
+D5_217_2014,Uttar Pradesh,Mirzpur,Annual,2014,2.315,2.0896,0.2254
+D5_217_2015,Uttar Pradesh,Mirzpur,Annual,2015,1.737,2.1075,0.3705
+D5_218_2014,Uttar Pradesh,Jaunpur,Annual,2014,2.414,2.2165,0.1975
+D5_218_2015,Uttar Pradesh,Jaunpur,Annual,2015,1.76,2.2344,0.4744
+D5_219_2014,Uttar Pradesh,Ghazipur,Annual,2014,2.153,2.2189,0.0659
+D5_219_2015,Uttar Pradesh,Ghazipur,Annual,2015,2.165,2.2369,0.0719
+D5_220_2014,Uttar Pradesh,Ballia,Annual,2014,2.057,1.9412,0.1158
+D5_220_2015,Uttar Pradesh,Ballia,Annual,2015,1.694,1.9591,0.2651
+D5_221_2014,Uttar Pradesh,Gorakhpur,Annual,2014,2.21,1.9739,0.2361
+D5_221_2015,Uttar Pradesh,Gorakhpur,Annual,2015,1.395,1.9918,0.5968
+D5_222_2014,Uttar Pradesh,Deoria,Annual,2014,2.009,2.1762,0.1672
+D5_222_2015,Uttar Pradesh,Deoria,Annual,2015,0.776,2.1941,1.4181
+D5_223_2014,Uttar Pradesh,Basti,Annual,2014,1.944,2.0268,0.0828
+D5_223_2015,Uttar Pradesh,Basti,Annual,2015,1.88,2.0447,0.1647
+D5_224_2014,Uttar Pradesh,Azamgarh,Annual,2014,1.977,2.0532,0.0762
+D5_224_2015,Uttar Pradesh,Azamgarh,Annual,2015,1.97,2.0712,0.1012
+D5_225_2014,Uttar Pradesh,Lucknow,Annual,2014,2.325,2.0027,0.3223
+D5_225_2015,Uttar Pradesh,Lucknow,Annual,2015,2.026,2.0206,0.0054
+D5_226_2014,Uttar Pradesh,Unnao,Annual,2014,1.678,1.8382,0.1602
+D5_226_2015,Uttar Pradesh,Unnao,Annual,2015,1.584,1.8561,0.2721
+D5_227_2014,Uttar Pradesh,Rae-Bareily,Annual,2014,2.364,2.1258,0.2382
+D5_227_2015,Uttar Pradesh,Rae-Bareily,Annual,2015,2.126,2.1437,0.0177
+D5_228_2014,Uttar Pradesh,Sitapur,Annual,2014,2.333,1.9862,0.3468
+D5_228_2015,Uttar Pradesh,Sitapur,Annual,2015,2.158,2.0041,0.1539
+D5_229_2014,Uttar Pradesh,Hardoi,Annual,2014,1.965,2.2098,0.2448
+D5_229_2015,Uttar Pradesh,Hardoi,Annual,2015,2.256,2.2277,0.0283
+D5_230_2014,Uttar Pradesh,Kheri,Annual,2014,2.724,2.4424,0.2816
+D5_230_2015,Uttar Pradesh,Kheri,Annual,2015,2.629,2.4604,0.1686
+D5_231_2014,Uttar Pradesh,Faizabad,Annual,2014,2.197,2.4047,0.2077
+D5_231_2015,Uttar Pradesh,Faizabad,Annual,2015,2.088,2.4226,0.3346
+D5_232_2014,Uttar Pradesh,Gonda,Annual,2014,2.07,2.0603,0.0097
+D5_232_2015,Uttar Pradesh,Gonda,Annual,2015,2.061,2.0782,0.0172
+D5_233_2014,Uttar Pradesh,Bahraich,Annual,2014,2.225,1.9451,0.2799
+D5_233_2015,Uttar Pradesh,Bahraich,Annual,2015,1.888,1.963,0.075
+D5_234_2014,Uttar Pradesh,Sultanpur,Annual,2014,1.781,2.2449,0.4639
+D5_234_2015,Uttar Pradesh,Sultanpur,Annual,2015,2.077,2.2629,0.1859
+D5_235_2014,Uttar Pradesh,Pratapgarh,Annual,2014,2.263,2.2363,0.0267
+D5_235_2015,Uttar Pradesh,Pratapgarh,Annual,2015,1.799,2.2542,0.4552
+D5_236_2014,Uttar Pradesh,Barabanki,Annual,2014,2.76,2.3389,0.4211
+D5_236_2015,Uttar Pradesh,Barabanki,Annual,2015,2.751,2.3568,0.3942
+D5_237_2014,Uttarakhand,Nainital,Annual,2014,2.813,2.8231,0.0101
+D5_237_2015,Uttarakhand,Nainital,Annual,2015,2.855,2.841,0.014
+D5_238_2014,Uttarakhand,Almorah,Annual,2014,1.17,1.3228,0.1528
+D5_238_2015,Uttarakhand,Almorah,Annual,2015,1.09,1.3407,0.2507
+D5_239_2014,Uttarakhand,Pithorgarh,Annual,2014,1.269,1.5159,0.2469
+D5_239_2015,Uttarakhand,Pithorgarh,Annual,2015,1.301,1.5338,0.2328
+D5_240_2014,Uttarakhand,Chamoli,Annual,2014,1.279,1.5428,0.2638
+D5_240_2015,Uttarakhand,Chamoli,Annual,2015,1.29,1.5608,0.2708
+D5_241_2014,Uttarakhand,Uttar Kashi,Annual,2014,1.663,1.7228,0.0598
+D5_241_2015,Uttarakhand,Uttar Kashi,Annual,2015,1.767,1.7408,0.0262
+D5_242_2014,Uttarakhand,Tehri Garhwal,Annual,2014,1.682,1.6682,0.0138
+D5_242_2015,Uttarakhand,Tehri Garhwal,Annual,2015,1.709,1.6861,0.0229
+D5_243_2014,Uttarakhand,Garhwal,Annual,2014,1.191,1.3145,0.1235
+D5_243_2015,Uttarakhand,Garhwal,Annual,2015,1.339,1.3324,0.0066
+D5_244_2014,Uttarakhand,Dehradun,Annual,2014,1.925,2.1421,0.2171
+D5_244_2015,Uttarakhand,Dehradun,Annual,2015,2.159,2.16,0.001
+D5_501_2014,Chhattisgarh,Rajnandgaon,Annual,2014,1.672,1.3551,0.3169
+D5_501_2015,Chhattisgarh,Rajnandgaon,Annual,2015,0.742,1.373,0.631
+D5_502_2014,Madhya Pradesh,Bhopal,Annual,2014,2.545,0.9474,1.5976
+D5_502_2015,Madhya Pradesh,Bhopal,Annual,2015,2.444,0.9654,1.4786
+D5_503_2014,Andhra Pradesh,Vizianagaram,Annual,2014,2.663,2.3449,0.3181
+D5_503_2015,Andhra Pradesh,Vizianagaram,Annual,2015,2.946,2.3628,0.5832
+D5_504_2014,Andhra Pradesh,Prakasam,Annual,2014,3.855,3.2257,0.6293
+D5_504_2015,Andhra Pradesh,Prakasam,Annual,2015,4.025,3.2436,0.7814
+D5_506_2014,Tamil Nadu,Dharmapuri,Annual,2014,5.2,3.6879,1.5121
+D5_506_2015,Tamil Nadu,Dharmapuri,Annual,2015,4.481,3.7058,0.7752
+D5_507_2014,Tamil Nadu,Periyar (Erode),Annual,2014,4.759,4.4812,0.2778
+D5_507_2015,Tamil Nadu,Periyar (Erode),Annual,2015,4.268,4.4991,0.2311
+D5_508_2014,Tamil Nadu,Pudukkottai,Annual,2014,4.151,2.9059,1.2451
+D5_508_2015,Tamil Nadu,Pudukkottai,Annual,2015,3.517,2.9238,0.5932
+D5_509_2014,Tamil Nadu,Dindigul Anna,Annual,2014,5.856,4.4226,1.4334
+D5_509_2015,Tamil Nadu,Dindigul Anna,Annual,2015,4.8,4.4405,0.3595
+D5_510_2014,Tamil Nadu,Virudhunagar / Kamarajar,Annual,2014,4.151,3.3318,0.8192
+D5_510_2015,Tamil Nadu,Virudhunagar / Kamarajar,Annual,2015,3.517,3.3497,0.1673
+D5_512_2014,Tamil Nadu,Sivagangai / Pasumpon,Annual,2014,3.455,2.3518,1.1032
+D5_512_2015,Tamil Nadu,Sivagangai / Pasumpon,Annual,2015,2.819,2.3697,0.4493
+D5_513_2014,Tamil Nadu,Chidambanar / Toothukudi,Annual,2014,5.166,4.4033,0.7627
+D5_513_2015,Tamil Nadu,Chidambanar / Toothukudi,Annual,2015,4.017,4.4212,0.4042
+D5_514_2014,Maharashtra,Jalna,Annual,2014,0.0,0.6391,0.6391
+D5_514_2015,Maharashtra,Jalna,Annual,2015,0.0,0.657,0.657
+D5_515_2014,Maharashtra,Latur,Annual,2014,0.19,0.7911,0.6011
+D5_515_2015,Maharashtra,Latur,Annual,2015,0.079,0.809,0.73
+D5_516_2014,Maharashtra,Gadchiroli,Annual,2014,1.324,1.355,0.031
+D5_516_2015,Maharashtra,Gadchiroli,Annual,2015,0.856,1.373,0.517
+D5_517_2014,Maharashtra,Sindhudurg,Annual,2014,3.254,2.6634,0.5906
+D5_517_2015,Maharashtra,Sindhudurg,Annual,2015,2.918,2.6813,0.2367
+D5_518_2014,Gujarat,Gandhinagar,Annual,2014,2.278,2.5661,0.2881
+D5_518_2015,Gujarat,Gandhinagar,Annual,2015,2.054,2.584,0.53
+D5_519_2014,Rajasthan,Dholpur,Annual,2014,2.2,1.6085,0.5915
+D5_519_2015,Rajasthan,Dholpur,Annual,2015,2.05,1.6264,0.4236
+D5_520_2014,Telangana,Rangareddy,Annual,2014,2.615,2.658,0.043
+D5_520_2015,Telangana,Rangareddy,Annual,2015,2.529,2.676,0.147
+D5_521_2014,Tamil Nadu,Thiruvannamalai,Annual,2014,4.716,3.2633,1.4527
+D5_521_2015,Tamil Nadu,Thiruvannamalai,Annual,2015,3.966,3.2813,0.6847
+D5_523_2014,Haryana,Yamunanagar,Annual,2014,3.8,3.3818,0.4182
+D5_523_2015,Haryana,Yamunanagar,Annual,2015,3.784,3.3997,0.3843
+D5_524_2014,Haryana,Kaithal,Annual,2014,3.23,2.9023,0.3277
+D5_524_2015,Haryana,Kaithal,Annual,2015,3.027,2.9202,0.1068
+D5_525_2014,Haryana,Panipat,Annual,2014,2.444,2.6239,0.1799
+D5_525_2015,Haryana,Panipat,Annual,2015,2.703,2.6418,0.0612
+D5_526_2014,Haryana,Rewari,Annual,2014,3.0,2.3822,0.6178
+D5_526_2015,Haryana,Rewari,Annual,2015,3.0,2.4001,0.5999
+D5_527_2014,Uttarakhand,Haridwar,Annual,2014,2.226,2.3771,0.1511
+D5_527_2015,Uttarakhand,Haridwar,Annual,2015,2.142,2.395,0.253
+D5_528_2014,Uttar Pradesh,Firozabad,Annual,2014,2.428,2.4011,0.0269
+D5_528_2015,Uttar Pradesh,Firozabad,Annual,2015,2.397,2.419,0.022
+D5_529_2014,Uttar Pradesh,Sonbhadra,Annual,2014,1.777,1.6215,0.1555
+D5_529_2015,Uttar Pradesh,Sonbhadra,Annual,2015,1.487,1.6394,0.1524
+D5_530_2014,Uttar Pradesh,Mau,Annual,2014,1.757,2.0037,0.2467
+D5_530_2015,Uttar Pradesh,Mau,Annual,2015,1.456,2.0216,0.5656
+D5_531_2014,Uttar Pradesh,Mahrajgani,Annual,2014,2.453,2.5553,0.1023
+D5_531_2015,Uttar Pradesh,Mahrajgani,Annual,2015,2.464,2.5732,0.1092
+D5_532_2014,Uttar Pradesh,Sidharthnagar,Annual,2014,2.43,1.9138,0.5162
+D5_532_2015,Uttar Pradesh,Sidharthnagar,Annual,2015,2.262,1.9317,0.3303
+D5_533_2014,Uttar Pradesh,Mahoba,Annual,2014,2.0,1.1755,0.8245
+D5_533_2015,Uttar Pradesh,Mahoba,Annual,2015,1.0,1.1934,0.1934
+D5_536_2014,Rajasthan,Baran,Annual,2014,3.505,1.8178,1.6872
+D5_536_2015,Rajasthan,Baran,Annual,2015,2.522,1.8357,0.6863
+D5_537_2014,Rajasthan,Dausa,Annual,2014,0.0,0.7373,0.7373
+D5_537_2015,Rajasthan,Dausa,Annual,2015,0.0,0.7552,0.7552
+D5_538_2014,Rajasthan,Rajsamand,Annual,2014,2.0,1.609,0.391
+D5_538_2015,Rajasthan,Rajsamand,Annual,2015,2.0,1.627,0.373
+D5_539_2014,Rajasthan,Hanumangarh,Annual,2014,3.624,2.9471,0.6769
+D5_539_2015,Rajasthan,Hanumangarh,Annual,2015,2.81,2.965,0.155
+D5_542_2014,Tamil Nadu,Nagapattinam,Annual,2014,3.636,2.6046,1.0314
+D5_542_2015,Tamil Nadu,Nagapattinam,Annual,2015,2.065,2.6225,0.5575
+D5_543_2014,Tamil Nadu,Villupuram,Annual,2014,4.855,3.5145,1.3405
+D5_543_2015,Tamil Nadu,Villupuram,Annual,2015,4.242,3.5324,0.7096
+D5_545_2014,Punjab,Mansa,Annual,2014,3.61,3.9082,0.2982
+D5_545_2015,Punjab,Mansa,Annual,2015,3.903,3.9261,0.0231
+D5_546_2014,Punjab,Fatehgarh Sahib,Annual,2014,4.349,4.1742,0.1748
+D5_546_2015,Punjab,Fatehgarh Sahib,Annual,2015,4.465,4.1921,0.2729
+D5_547_2014,Uttar Pradesh,Kanpur Nagar,Annual,2014,2.316,2.1776,0.1384
+D5_547_2015,Uttar Pradesh,Kanpur Nagar,Annual,2015,2.274,2.1955,0.0785
+D5_548_2014,Uttar Pradesh,Kanpur Dehat,Annual,2014,2.473,2.3457,0.1273
+D5_548_2015,Uttar Pradesh,Kanpur Dehat,Annual,2015,2.635,2.3636,0.2714
+D5_549_2014,Karnataka,Bangalore (Rural),Annual,2014,3.446,2.9314,0.5146
+D5_549_2015,Karnataka,Bangalore (Rural),Annual,2015,2.635,2.9493,0.3143
+D5_550_2014,Karnataka,Bangalore (Urban),Annual,2014,3.567,2.9262,0.6408
+D5_550_2015,Karnataka,Bangalore (Urban),Annual,2015,3.09,2.9441,0.1459
+D5_601_2014,Assam,Cachar,Annual,2014,2.279,2.0561,0.2229
+D5_601_2015,Assam,Cachar,Annual,2015,2.047,2.074,0.027
+D5_602_2014,Assam,Darrang,Annual,2014,2.506,1.5854,0.9206
+D5_602_2015,Assam,Darrang,Annual,2015,2.4,1.6033,0.7967
+D5_603_2014,Assam,Dibrugarh,Annual,2014,1.727,1.9257,0.1987
+D5_603_2015,Assam,Dibrugarh,Annual,2015,1.933,1.9436,0.0106
+D5_604_2014,Assam,Goalpara,Annual,2014,2.3,1.7763,0.5237
+D5_604_2015,Assam,Goalpara,Annual,2015,2.205,1.7942,0.4108
+D5_605_2014,Assam,Kamrup,Annual,2014,2.296,1.7541,0.5419
+D5_605_2015,Assam,Kamrup,Annual,2015,2.481,1.772,0.709
+D5_606_2014,Assam,Karbi Anglong,Annual,2014,1.705,1.732,0.027
+D5_606_2015,Assam,Karbi Anglong,Annual,2015,1.645,1.7499,0.1049
+D5_607_2014,Assam,Lakhimpur,Annual,2014,2.1,1.4021,0.6979
+D5_607_2015,Assam,Lakhimpur,Annual,2015,2.032,1.42,0.612
+D5_608_2014,Assam,North Cachar Hil,Annual,2014,2.348,1.899,0.449
+D5_608_2015,Assam,North Cachar Hil,Annual,2015,2.179,1.9169,0.2621
+D5_609_2014,Assam,Nagaon,Annual,2014,2.035,1.9438,0.0912
+D5_609_2015,Assam,Nagaon,Annual,2015,2.305,1.9617,0.3433
+D5_610_2014,Assam,Sibsagar,Annual,2014,2.106,2.1363,0.0303
+D5_610_2015,Assam,Sibsagar,Annual,2015,2.028,2.1542,0.1262
+D5_615_2014,Assam,Barpeta,Annual,2014,1.931,1.3797,0.5513
+D5_615_2015,Assam,Barpeta,Annual,2015,1.789,1.3976,0.3914
+D5_616_2014,Assam,Dhubri,Annual,2014,2.748,1.6499,1.0981
+D5_616_2015,Assam,Dhubri,Annual,2015,2.7,1.6679,1.0321
+D5_617_2014,Assam,Golaghat,Annual,2014,2.235,2.1248,0.1102
+D5_617_2015,Assam,Golaghat,Annual,2015,2.173,2.1427,0.0303
+D5_618_2014,Assam,Jorhat,Annual,2014,1.921,1.8815,0.0395
+D5_618_2015,Assam,Jorhat,Annual,2015,2.122,1.8995,0.2225
+D5_619_2014,Assam,Karimganj,Annual,2014,1.851,2.0754,0.2244
+D5_619_2015,Assam,Karimganj,Annual,2015,1.627,2.0933,0.4663
+D5_620_2014,Assam,Kokrajhar,Annual,2014,1.965,1.4257,0.5393
+D5_620_2015,Assam,Kokrajhar,Annual,2015,1.69,1.4436,0.2464
+D5_621_2014,Assam,Nalbari,Annual,2014,2.415,1.5604,0.8546
+D5_621_2015,Assam,Nalbari,Annual,2015,2.147,1.5783,0.5687
+D5_622_2014,Assam,Sonitpur,Annual,2014,2.201,1.6453,0.5557
+D5_622_2015,Assam,Sonitpur,Annual,2015,2.197,1.6632,0.5338
+D5_626_2014,Himachal Pradesh,Bilashpur,Annual,2014,2.292,1.7549,0.5371
+D5_626_2015,Himachal Pradesh,Bilashpur,Annual,2015,2.077,1.7729,0.3041
+D5_627_2014,Himachal Pradesh,Chamba,Annual,2014,1.321,1.633,0.312
+D5_627_2015,Himachal Pradesh,Chamba,Annual,2015,1.205,1.6509,0.4459
+D5_628_2014,Himachal Pradesh,Hamirpur,Annual,2014,1.556,1.3673,0.1887
+D5_628_2015,Himachal Pradesh,Hamirpur,Annual,2015,1.412,1.3852,0.0268
+D5_629_2014,Himachal Pradesh,Kangra,Annual,2014,1.658,1.644,0.014
+D5_629_2015,Himachal Pradesh,Kangra,Annual,2015,1.507,1.6619,0.1549
+D5_630_2014,Himachal Pradesh,Kinnaur,Annual,2014,2.0,1.6251,0.3749
+D5_630_2015,Himachal Pradesh,Kinnaur,Annual,2015,2.0,1.643,0.357
+D5_631_2014,Himachal Pradesh,Kullu,Annual,2014,1.441,1.6268,0.1858
+D5_631_2015,Himachal Pradesh,Kullu,Annual,2015,1.313,1.6447,0.3317
+D5_632_2014,Himachal Pradesh,Lahul & Spiti,Annual,2014,0.0,0.3172,0.3172
+D5_632_2015,Himachal Pradesh,Lahul & Spiti,Annual,2015,0.0,0.3351,0.3351
+D5_633_2014,Himachal Pradesh,Solan,Annual,2014,2.777,2.1137,0.6633
+D5_633_2015,Himachal Pradesh,Solan,Annual,2015,2.523,2.1316,0.3914
+D5_634_2014,Himachal Pradesh,Mandi,Annual,2014,1.326,1.5606,0.2346
+D5_634_2015,Himachal Pradesh,Mandi,Annual,2015,1.733,1.5786,0.1544
+D5_635_2014,Himachal Pradesh,Shimla,Annual,2014,1.009,1.3604,0.3514
+D5_635_2015,Himachal Pradesh,Shimla,Annual,2015,0.912,1.3784,0.4664
+D5_636_2014,Himachal Pradesh,Sirmaur,Annual,2014,1.3,1.7373,0.4373
+D5_636_2015,Himachal Pradesh,Sirmaur,Annual,2015,1.182,1.7552,0.5732
+D5_637_2014,Himachal Pradesh,Una,Annual,2014,2.537,2.2356,0.3014
+D5_637_2015,Himachal Pradesh,Una,Annual,2015,2.306,2.2535,0.0525
+D5_651_2014,Kerala,Alappuzha,Annual,2014,2.995,2.6814,0.3136
+D5_651_2015,Kerala,Alappuzha,Annual,2015,2.816,2.6993,0.1167
+D5_652_2014,Kerala,Kannur,Annual,2014,2.25,2.0208,0.2292
+D5_652_2015,Kerala,Kannur,Annual,2015,2.103,2.0387,0.0643
+D5_653_2014,Kerala,Eranakulam,Annual,2014,2.149,2.0871,0.0619
+D5_653_2015,Kerala,Eranakulam,Annual,2015,2.126,2.105,0.021
+D5_654_2014,Kerala,Idukki,Annual,2014,2.571,2.5957,0.0247
+D5_654_2015,Kerala,Idukki,Annual,2015,2.478,2.6136,0.1356
+D5_655_2014,Kerala,Kottayam,Annual,2014,2.855,2.6981,0.1569
+D5_655_2015,Kerala,Kottayam,Annual,2015,3.042,2.716,0.326
+D5_656_2014,Kerala,Kozhikode,Annual,2014,1.474,1.5852,0.1112
+D5_656_2015,Kerala,Kozhikode,Annual,2015,1.256,1.6031,0.3471
+D5_657_2014,Kerala,Malappuram,Annual,2014,2.652,2.1858,0.4662
+D5_657_2015,Kerala,Malappuram,Annual,2015,2.722,2.2037,0.5183
+D5_658_2014,Kerala,Palakkad,Annual,2014,2.851,2.5411,0.3099
+D5_658_2015,Kerala,Palakkad,Annual,2015,2.816,2.559,0.257
+D5_659_2014,Kerala,Kollam,Annual,2014,2.368,2.3023,0.0657
+D5_659_2015,Kerala,Kollam,Annual,2015,2.155,2.3202,0.1652
+D5_660_2014,Kerala,Thrissur,Annual,2014,3.148,2.4242,0.7238
+D5_660_2015,Kerala,Thrissur,Annual,2015,3.203,2.4421,0.7609
+D5_661_2014,Kerala,Thiruvananthapuram,Annual,2014,2.66,2.3601,0.2999
+D5_661_2015,Kerala,Thiruvananthapuram,Annual,2015,2.573,2.378,0.195
+D5_662_2014,Kerala,Kasaragod,Annual,2014,2.285,2.2661,0.0189
+D5_662_2015,Kerala,Kasaragod,Annual,2015,2.227,2.284,0.057
+D5_663_2014,Kerala,Pathanamthitta,Annual,2014,2.923,2.7214,0.2016
+D5_663_2015,Kerala,Pathanamthitta,Annual,2015,3.313,2.7393,0.5737
+D5_664_2014,Kerala,Wayanad,Annual,2014,2.701,2.6213,0.0797
+D5_664_2015,Kerala,Wayanad,Annual,2015,2.575,2.6392,0.0642
+D5_701_2014,Orissa,Balasore,Annual,2014,2.291,1.6655,0.6255
+D5_701_2015,Orissa,Balasore,Annual,2015,1.702,1.6834,0.0186
+D5_702_2014,Orissa,Bolangir,Annual,2014,3.114,1.4612,1.6528
+D5_702_2015,Orissa,Bolangir,Annual,2015,0.94,1.4792,0.5392
+D5_703_2014,Orissa,Cuttack,Annual,2014,2.505,1.7374,0.7676
+D5_703_2015,Orissa,Cuttack,Annual,2015,2.014,1.7553,0.2587
+D5_704_2014,Orissa,Dhenkanal,Annual,2014,3.313,1.6214,1.6916
+D5_704_2015,Orissa,Dhenkanal,Annual,2015,1.596,1.6393,0.0433
+D5_705_2014,Orissa,Ganjam,Annual,2014,2.71,1.824,0.886
+D5_705_2015,Orissa,Ganjam,Annual,2015,1.923,1.8419,0.0811
+D5_706_2014,Orissa,Kalahandi,Annual,2014,2.329,1.4015,0.9275
+D5_706_2015,Orissa,Kalahandi,Annual,2015,1.118,1.4195,0.3015
+D5_707_2014,Orissa,Keonjhar,Annual,2014,2.348,1.4227,0.9253
+D5_707_2015,Orissa,Keonjhar,Annual,2015,1.132,1.4406,0.3086
+D5_708_2014,Orissa,Koraput,Annual,2014,2.042,1.6867,0.3553
+D5_708_2015,Orissa,Koraput,Annual,2015,1.972,1.7047,0.2673
+D5_709_2014,Orissa,Mayurbhanja,Annual,2014,2.176,1.5392,0.6368
+D5_709_2015,Orissa,Mayurbhanja,Annual,2015,0.984,1.5571,0.5731
+D5_710_2014,Orissa,Phulbani ( Kandhamal ),Annual,2014,1.852,1.5093,0.3427
+D5_710_2015,Orissa,Phulbani ( Kandhamal ),Annual,2015,0.861,1.5273,0.6663
+D5_711_2014,Orissa,Puri,Annual,2014,2.109,1.6172,0.4918
+D5_711_2015,Orissa,Puri,Annual,2015,2.085,1.6352,0.4498
+D5_712_2014,Orissa,Sambalpur,Annual,2014,2.433,1.8714,0.5616
+D5_712_2015,Orissa,Sambalpur,Annual,2015,1.05,1.8893,0.8393
+D5_713_2014,Orissa,Sundargarh,Annual,2014,2.535,1.2378,1.2972
+D5_713_2015,Orissa,Sundargarh,Annual,2015,1.172,1.2557,0.0837
+D5_714_2014,Orissa,Bhadrak,Annual,2014,1.421,1.8169,0.3959
+D5_714_2015,Orissa,Bhadrak,Annual,2015,2.506,1.8348,0.6712
+D5_716_2014,Orissa,Jagatsinghapur,Annual,2014,2.165,1.7194,0.4456
+D5_716_2015,Orissa,Jagatsinghapur,Annual,2015,2.571,1.7373,0.8337
+D5_717_2014,Orissa,Jajapur,Annual,2014,1.856,1.4728,0.3832
+D5_717_2015,Orissa,Jajapur,Annual,2015,1.231,1.4907,0.2597
+D5_718_2014,Orissa,Kendrapara,Annual,2014,1.438,1.471,0.033
+D5_718_2015,Orissa,Kendrapara,Annual,2015,1.846,1.4889,0.3571
+D5_719_2014,Orissa,Angul,Annual,2014,2.486,1.2873,1.1987
+D5_719_2015,Orissa,Angul,Annual,2015,0.791,1.3052,0.5142
+D5_720_2014,Orissa,Gajapati,Annual,2014,1.487,1.7352,0.2482
+D5_720_2015,Orissa,Gajapati,Annual,2015,0.975,1.7531,0.7781
+D5_721_2014,Orissa,Nuapada,Annual,2014,2.121,1.2545,0.8665
+D5_721_2015,Orissa,Nuapada,Annual,2015,0.847,1.2724,0.4254
+D5_722_2014,Orissa,Malkangiri,Annual,2014,1.725,1.4114,0.3136
+D5_722_2015,Orissa,Malkangiri,Annual,2015,1.37,1.4294,0.0594
+D5_723_2014,Orissa,Nawarangpur,Annual,2014,2.328,1.5022,0.8258
+D5_723_2015,Orissa,Nawarangpur,Annual,2015,1.254,1.5202,0.2662
+D5_724_2014,Orissa,Rayagada,Annual,2014,2.82,1.7086,1.1114
+D5_724_2015,Orissa,Rayagada,Annual,2015,1.167,1.7266,0.5596
+D5_725_2014,Orissa,Khurda,Annual,2014,2.177,1.6234,0.5536
+D5_725_2015,Orissa,Khurda,Annual,2015,1.432,1.6413,0.2093
+D5_726_2014,Orissa,Nayagarh,Annual,2014,2.099,1.5424,0.5566
+D5_726_2015,Orissa,Nayagarh,Annual,2015,0.848,1.5604,0.7124
+D5_728_2014,Orissa,Boudh,Annual,2014,2.3,1.4756,0.8244
+D5_728_2015,Orissa,Boudh,Annual,2015,0.954,1.4935,0.5395
+D5_729_2014,Orissa,Bargarh,Annual,2014,2.928,2.0524,0.8756
+D5_729_2015,Orissa,Bargarh,Annual,2015,1.924,2.0703,0.1463
+D5_730_2014,Orissa,Deogarh,Annual,2014,2.983,1.3016,1.6814
+D5_730_2015,Orissa,Deogarh,Annual,2015,0.996,1.3195,0.3235
+D5_731_2014,Orissa,Jharsuguda,Annual,2014,1.424,1.4806,0.0566
+D5_731_2015,Orissa,Jharsuguda,Annual,2015,0.94,1.4985,0.5585
+D5_732_2014,Orissa,Sonepur,Annual,2014,3.361,2.0055,1.3555
+D5_732_2015,Orissa,Sonepur,Annual,2015,2.514,2.0234,0.4906
+D5_801_2014,West Bengal,24-Paraganas South,Annual,2014,2.586,2.2182,0.3678
+D5_801_2015,West Bengal,24-Paraganas South,Annual,2015,2.354,2.2361,0.1179
+D5_802_2014,West Bengal,24-Paraganas North,Annual,2014,3.018,2.755,0.263
+D5_802_2015,West Bengal,24-Paraganas North,Annual,2015,2.95,2.7729,0.1771
+D5_803_2014,West Bengal,Nadia,Annual,2014,3.215,2.8946,0.3204
+D5_803_2015,West Bengal,Nadia,Annual,2015,3.134,2.9125,0.2215
+D5_804_2014,West Bengal,Murshidabad,Annual,2014,3.24,2.8015,0.4385
+D5_804_2015,West Bengal,Murshidabad,Annual,2015,3.283,2.8194,0.4636
+D5_805_2014,West Bengal,Burdwan,Annual,2014,3.251,3.0831,0.1679
+D5_805_2015,West Bengal,Burdwan,Annual,2015,3.37,3.101,0.269
+D5_806_2014,West Bengal,Birbhum,Annual,2014,3.28,2.9147,0.3653
+D5_806_2015,West Bengal,Birbhum,Annual,2015,3.356,2.9327,0.4233
+D5_807_2014,West Bengal,Bankura,Annual,2014,2.764,2.7816,0.0176
+D5_807_2015,West Bengal,Bankura,Annual,2015,2.747,2.7995,0.0525
+D5_810_2014,West Bengal,Hooghly,Annual,2014,3.116,2.8599,0.2561
+D5_810_2015,West Bengal,Hooghly,Annual,2015,3.138,2.8779,0.2601
+D5_811_2014,West Bengal,Jhargram,Annual,2014,2.73,2.3041,0.4259
+D5_811_2015,West Bengal,Jhargram,Annual,2015,1.97,2.3221,0.3521
+D5_812_2014,West Bengal,Jalpaiguri,Annual,2014,2.437,1.768,0.669
+D5_812_2015,West Bengal,Jalpaiguri,Annual,2015,2.526,1.786,0.74
+D5_813_2014,West Bengal,Darjeeling,Annual,2014,2.105,1.8942,0.2108
+D5_813_2015,West Bengal,Darjeeling,Annual,2015,2.361,1.9121,0.4489
+D5_814_2014,West Bengal,Malda,Annual,2014,3.465,2.7562,0.7088
+D5_814_2015,West Bengal,Malda,Annual,2015,3.418,2.7741,0.6439
+D5_816_2014,West Bengal,Cooch Behar,Annual,2014,2.596,1.8978,0.6982
+D5_816_2015,West Bengal,Cooch Behar,Annual,2015,2.673,1.9157,0.7573
+D5_817_2014,West Bengal,Purulia,Annual,2014,2.143,2.2052,0.0622
+D5_817_2015,West Bengal,Purulia,Annual,2015,1.839,2.2232,0.3842
+D5_819_2014,West Bengal,Uttar Dinajpur,Annual,2014,2.746,2.4435,0.3025
+D5_819_2015,West Bengal,Uttar Dinajpur,Annual,2015,2.789,2.4614,0.3276
+D5_820_2014,West Bengal,Dakshin Dinajpur,Annual,2014,2.874,2.5247,0.3493
+D5_820_2015,West Bengal,Dakshin Dinajpur,Annual,2015,2.991,2.5426,0.4484
+D5_823_2014,West Bengal,East Midnapore / Purba Midnapore,Annual,2014,2.666,2.4357,0.2303
+D5_823_2015,West Bengal,East Midnapore / Purba Midnapore,Annual,2015,2.654,2.4536,0.2004
+D5_824_2014,West Bengal,West Midnapore,Annual,2014,2.77,2.5654,0.2046
+D5_824_2015,West Bengal,West Midnapore,Annual,2015,2.932,2.5834,0.3486
+D5_902_2014,Bihar,Muzaffarpur,Annual,2014,2.033,1.2573,0.7757
+D5_902_2015,Bihar,Muzaffarpur,Annual,2015,0.95,1.2752,0.3252
+D5_903_2014,Bihar,Darbhanga,Annual,2014,1.707,1.2108,0.4962
+D5_903_2015,Bihar,Darbhanga,Annual,2015,1.402,1.2287,0.1733
+D5_904_2014,Bihar,Saharsa,Annual,2014,1.842,1.4014,0.4406
+D5_904_2015,Bihar,Saharsa,Annual,2015,1.984,1.4193,0.5647
+D5_905_2014,Bihar,Purnea,Annual,2014,2.68,1.4651,1.2149
+D5_905_2015,Bihar,Purnea,Annual,2015,1.942,1.483,0.459
+D5_906_2014,Bihar,Saran,Annual,2014,2.27,1.5814,0.6886
+D5_906_2015,Bihar,Saran,Annual,2015,1.08,1.5993,0.5193
+D5_907_2014,Bihar,Patna,Annual,2014,2.562,2.0346,0.5274
+D5_907_2015,Bihar,Patna,Annual,2015,3.028,2.0525,0.9755
+D5_908_2014,Bihar,Mungair,Annual,2014,2.776,1.6069,1.1691
+D5_908_2015,Bihar,Mungair,Annual,2015,2.623,1.6248,0.9982
+D5_909_2014,Bihar,Bhagalpur,Annual,2014,2.962,1.5019,1.4601
+D5_909_2015,Bihar,Bhagalpur,Annual,2015,2.356,1.5199,0.8361
+D5_910_2014,Jharkhand,Santhal Paragana / Dumka,Annual,2014,1.915,1.8291,0.0859
+D5_910_2015,Jharkhand,Santhal Paragana / Dumka,Annual,2015,0.717,1.847,1.13
+D5_912_2014,Bihar,Gaya,Annual,2014,3.211,1.8221,1.3889
+D5_912_2015,Bihar,Gaya,Annual,2015,2.401,1.84,0.561
+D5_913_2014,Jharkhand,Hazaribagh,Annual,2014,2.525,1.5686,0.9564
+D5_913_2015,Jharkhand,Hazaribagh,Annual,2015,1.432,1.5865,0.1545
+D5_914_2014,Jharkhand,Dhanbad,Annual,2014,2.512,1.817,0.695
+D5_914_2015,Jharkhand,Dhanbad,Annual,2015,1.118,1.8349,0.7169
+D5_915_2014,Jharkhand,Palamau,Annual,2014,1.061,1.5945,0.5335
+D5_915_2015,Jharkhand,Palamau,Annual,2015,0.927,1.6124,0.6854
+D5_916_2014,Jharkhand,Ranchi,Annual,2014,2.608,1.5471,1.0609
+D5_916_2015,Jharkhand,Ranchi,Annual,2015,0.788,1.565,0.777
+D5_918_2014,Bihar,Nalanda,Annual,2014,2.586,1.5796,1.0064
+D5_918_2015,Bihar,Nalanda,Annual,2015,2.897,1.5975,1.2995
+D5_919_2014,Bihar,Nawada,Annual,2014,3.069,1.721,1.348
+D5_919_2015,Bihar,Nawada,Annual,2015,2.538,1.7389,0.7991
+D5_920_2014,Bihar,Aurangabad,Annual,2014,3.775,1.7832,1.9918
+D5_920_2015,Bihar,Aurangabad,Annual,2015,3.453,1.8011,1.6519
+D5_921_2014,Bihar,Bhojpur,Annual,2014,2.885,2.3478,0.5372
+D5_921_2015,Bihar,Bhojpur,Annual,2015,3.465,2.3657,1.0993
+D5_922_2014,Bihar,Rohtas,Annual,2014,4.178,2.5861,1.5919
+D5_922_2015,Bihar,Rohtas,Annual,2015,3.863,2.604,1.259
+D5_923_2014,Bihar,Siwan,Annual,2014,2.061,1.3881,0.6729
+D5_923_2015,Bihar,Siwan,Annual,2015,1.577,1.4061,0.1709
+D5_924_2014,Bihar,Gopalganj,Annual,2014,1.956,1.5218,0.4342
+D5_924_2015,Bihar,Gopalganj,Annual,2015,0.834,1.5397,0.7057
+D5_925_2014,Bihar,Champaran (East),Annual,2014,1.743,1.4141,0.3289
+D5_925_2015,Bihar,Champaran (East),Annual,2015,0.722,1.4321,0.7101
+D5_926_2014,Bihar,Champaran (West),Annual,2014,2.407,1.8398,0.5672
+D5_926_2015,Bihar,Champaran (West),Annual,2015,1.845,1.8577,0.0127
+D5_927_2014,Bihar,Vaishali,Annual,2014,2.128,1.3135,0.8145
+D5_927_2015,Bihar,Vaishali,Annual,2015,1.02,1.3315,0.3115
+D5_928_2014,Bihar,Sitamarhi,Annual,2014,1.884,1.2377,0.6463
+D5_928_2015,Bihar,Sitamarhi,Annual,2015,0.967,1.2557,0.2887
+D5_929_2014,Bihar,Madhubani,Annual,2014,1.558,1.2417,0.3163
+D5_929_2015,Bihar,Madhubani,Annual,2015,1.035,1.2596,0.2246
+D5_930_2014,Bihar,Samastipur,Annual,2014,2.098,1.1609,0.9371
+D5_930_2015,Bihar,Samastipur,Annual,2015,1.684,1.1789,0.5051
+D5_931_2014,Bihar,Begusarai,Annual,2014,1.677,1.1011,0.5759
+D5_931_2015,Bihar,Begusarai,Annual,2015,1.584,1.119,0.465
+D5_932_2014,Bihar,Katihar,Annual,2014,2.639,1.5242,1.1148
+D5_932_2015,Bihar,Katihar,Annual,2015,2.098,1.5421,0.5559
+D5_933_2014,Jharkhand,Giridih,Annual,2014,2.526,1.4938,1.0322
+D5_933_2015,Jharkhand,Giridih,Annual,2015,1.211,1.5118,0.3008
+D5_934_2014,Bihar,Jehanabad,Annual,2014,3.293,1.9141,1.3789
+D5_934_2015,Bihar,Jehanabad,Annual,2015,2.678,1.932,0.746
+D5_935_2014,Bihar,Madhepura,Annual,2014,2.17,1.444,0.726
+D5_935_2015,Bihar,Madhepura,Annual,2015,2.035,1.4619,0.5731
+D5_936_2014,Bihar,Khagaria,Annual,2014,1.66,1.0653,0.5947
+D5_936_2015,Bihar,Khagaria,Annual,2015,1.854,1.0832,0.7708
+D5_937_2014,Jharkhand,Godda,Annual,2014,2.105,1.773,0.332
+D5_937_2015,Jharkhand,Godda,Annual,2015,0.492,1.7909,1.2989
+D5_938_2014,Jharkhand,Sahebganj,Annual,2014,1.75,1.6231,0.1269
+D5_938_2015,Jharkhand,Sahebganj,Annual,2015,1.385,1.641,0.256
+D5_940_2014,Jharkhand,Devghar / Deogarh,Annual,2014,1.87,1.8402,0.0298
+D5_940_2015,Jharkhand,Devghar / Deogarh,Annual,2015,1.297,1.8581,0.5611
+D5_941_2014,Jharkhand,Lohardagga,Annual,2014,2.086,1.5636,0.5224
+D5_941_2015,Jharkhand,Lohardagga,Annual,2015,1.085,1.5815,0.4965
+D5_942_2014,Jharkhand,Gumla,Annual,2014,1.605,1.2862,0.3188
+D5_942_2015,Jharkhand,Gumla,Annual,2015,0.979,1.3041,0.3251
+D5_943_2014,Jharkhand,Singhbhum East,Annual,2014,2.859,1.5315,1.3275
+D5_943_2015,Jharkhand,Singhbhum East,Annual,2015,1.62,1.5494,0.0706
+D5_944_2014,Jharkhand,Singhbhum West,Annual,2014,1.843,1.3428,0.5002
+D5_944_2015,Jharkhand,Singhbhum West,Annual,2015,0.71,1.3607,0.6507
+D5_945_2014,Bihar,Araria,Annual,2014,2.201,1.3482,0.8528
+D5_945_2015,Bihar,Araria,Annual,2015,2.066,1.3661,0.6999
+D5_946_2014,Bihar,Kishanganj,Annual,2014,2.849,1.3329,1.5161
+D5_946_2015,Bihar,Kishanganj,Annual,2015,1.773,1.3508,0.4222
+D5_947_2014,Bihar,Buxar,Annual,2014,2.784,2.4342,0.3498
+D5_947_2015,Bihar,Buxar,Annual,2015,3.086,2.4521,0.6339
+D5_948_2014,Bihar,Bhabhua / Kaimur,Annual,2014,2.753,2.4009,0.3521
+D5_948_2015,Bihar,Bhabhua / Kaimur,Annual,2015,2.586,2.4188,0.1672
+D5_949_2014,Bihar,Banka,Annual,2014,3.523,1.7548,1.7682
+D5_949_2015,Bihar,Banka,Annual,2015,3.352,1.7727,1.5793
+D5_950_2014,Bihar,Jamui,Annual,2014,2.041,1.3845,0.6565
+D5_950_2015,Bihar,Jamui,Annual,2015,1.879,1.4024,0.4766
+D5_951_2014,Bihar,Supaul,Annual,2014,1.793,1.4136,0.3794
+D5_951_2015,Bihar,Supaul,Annual,2015,1.895,1.4315,0.4635
+D5_952_2014,Jharkhand,Chatra,Annual,2014,2.625,1.424,1.201
+D5_952_2015,Jharkhand,Chatra,Annual,2015,1.021,1.4419,0.4209
+D5_953_2014,Jharkhand,Bokaro,Annual,2014,2.571,1.3682,1.2028
+D5_953_2015,Jharkhand,Bokaro,Annual,2015,0.982,1.3861,0.4041
+D5_954_2014,Jharkhand,Gadva / Garhwa,Annual,2014,1.526,1.2573,0.2687
+D5_954_2015,Jharkhand,Gadva / Garhwa,Annual,2015,0.744,1.2752,0.5312
+D5_955_2014,Jharkhand,Khodrama / Koderma,Annual,2014,1.794,1.6592,0.1348
+D5_955_2015,Jharkhand,Khodrama / Koderma,Annual,2015,0.897,1.6772,0.7802
+D5_956_2014,Bihar,Lakhisarai,Annual,2014,3.687,1.5931,2.0939
+D5_956_2015,Bihar,Lakhisarai,Annual,2015,4.27,1.611,2.659
+D5_957_2014,Jharkhand,Pakund / Pakur,Annual,2014,2.348,1.5621,0.7859
+D5_957_2015,Jharkhand,Pakund / Pakur,Annual,2015,1.964,1.5801,0.3839
+D5_958_2014,Bihar,Sheikapura,Annual,2014,3.809,1.7384,2.0706
+D5_958_2015,Bihar,Sheikapura,Annual,2015,3.872,1.7564,2.1156
+D5_960_2014,Bihar,Sheohar,Annual,2014,1.836,1.2691,0.5669
+D5_960_2015,Bihar,Sheohar,Annual,2015,0.55,1.2871,0.7371
+D5_961_2014,Bihar,Arwal,Annual,2014,4.397,1.4045,2.9925
+D5_961_2015,Bihar,Arwal,Annual,2015,3.125,1.4224,1.7026
+D5_962_2014,Jharkhand,Jamtara,Annual,2014,1.658,1.8168,0.1588
+D5_962_2015,Jharkhand,Jamtara,Annual,2015,0.637,1.8347,1.1977
+D5_963_2014,Jharkhand,Latehar,Annual,2014,0.944,1.2247,0.2807
+D5_963_2015,Jharkhand,Latehar,Annual,2015,0.563,1.2426,0.6796
+D5_964_2014,Jharkhand,Sariakela / Kharsawan,Annual,2014,2.401,1.6411,0.7599
+D5_964_2015,Jharkhand,Sariakela / Kharsawan,Annual,2015,0.656,1.659,1.003
+D5_965_2014,Jharkhand,Simdega,Annual,2014,2.009,1.5717,0.4373
+D5_965_2015,Jharkhand,Simdega,Annual,2015,1.162,1.5896,0.4276
+D5_1001_2014,Gujarat,Anand,Annual,2014,2.801,2.041,0.76
+D5_1001_2015,Gujarat,Anand,Annual,2015,2.769,2.059,0.71
+D5_1002_2014,Gujarat,Dahod,Annual,2014,0.522,0.8588,0.3368
+D5_1002_2015,Gujarat,Dahod,Annual,2015,0.276,0.8767,0.6007
+D5_1003_2014,Gujarat,Narmada,Annual,2014,0.731,0.9162,0.1852
+D5_1003_2015,Gujarat,Narmada,Annual,2015,0.598,0.9341,0.3361
+D5_1004_2014,Gujarat,Navsari,Annual,2014,2.805,2.5197,0.2853
+D5_1004_2015,Gujarat,Navsari,Annual,2015,2.51,2.5376,0.0276
+D5_1005_2014,Gujarat,Patan,Annual,2014,0.0,0.2424,0.2424
+D5_1005_2015,Gujarat,Patan,Annual,2015,0.0,0.2603,0.2603
+D5_1006_2014,Gujarat,Porbandar,Annual,2014,0.0,0.2424,0.2424
+D5_1006_2015,Gujarat,Porbandar,Annual,2015,0.0,0.2603,0.2603
+D5_1007_2014,Haryana,Fatehabad,Annual,2014,3.697,3.7068,0.0098
+D5_1007_2015,Haryana,Fatehabad,Annual,2015,4.176,3.7247,0.4513
+D5_1008_2014,Haryana,Jhajjar,Annual,2014,2.371,1.9424,0.4286
+D5_1008_2015,Haryana,Jhajjar,Annual,2015,2.629,1.9603,0.6687
+D5_1009_2014,Haryana,Panchkula,Annual,2014,2.9,3.0311,0.1311
+D5_1009_2015,Haryana,Panchkula,Annual,2015,3.656,3.049,0.607
+D5_1010_2014,Karnataka,Bagalkote,Annual,2014,2.667,2.515,0.152
+D5_1010_2015,Karnataka,Bagalkote,Annual,2015,3.0,2.5329,0.4671
+D5_1011_2014,Karnataka,Chamaraja Nagar,Annual,2014,3.236,3.0431,0.1929
+D5_1011_2015,Karnataka,Chamaraja Nagar,Annual,2015,3.589,3.061,0.528
+D5_1012_2014,Karnataka,Davanagere,Annual,2014,3.656,3.5115,0.1445
+D5_1012_2015,Karnataka,Davanagere,Annual,2015,3.75,3.5294,0.2206
+D5_1013_2014,Karnataka,Gadag,Annual,2014,2.941,2.6617,0.2793
+D5_1013_2015,Karnataka,Gadag,Annual,2015,3.269,2.6797,0.5893
+D5_1014_2014,Karnataka,Haveri,Annual,2014,2.563,1.7809,0.7821
+D5_1014_2015,Karnataka,Haveri,Annual,2015,1.215,1.7988,0.5838
+D5_1015_2014,Karnataka,Koppal,Annual,2014,3.203,3.662,0.459
+D5_1015_2015,Karnataka,Koppal,Annual,2015,3.481,3.6799,0.1989
+D5_1016_2014,Karnataka,Udupi,Annual,2014,2.772,2.4329,0.3391
+D5_1016_2015,Karnataka,Udupi,Annual,2015,2.499,2.4508,0.0482
+D5_1017_2014,Punjab,S.B.S Nagar,Annual,2014,3.965,3.8216,0.1434
+D5_1017_2015,Punjab,S.B.S Nagar,Annual,2015,4.271,3.8396,0.4314
+D5_1018_2014,Punjab,Shri Mukatsar Sahib,Annual,2014,3.807,3.8393,0.0323
+D5_1018_2015,Punjab,Shri Mukatsar Sahib,Annual,2015,4.222,3.8573,0.3647
+D5_1019_2014,Punjab,Moga,Annual,2014,4.605,4.2337,0.3713
+D5_1019_2015,Punjab,Moga,Annual,2015,4.76,4.2516,0.5084
+D5_1020_2014,Rajasthan,Karoli,Annual,2014,1.163,1.1938,0.0308
+D5_1020_2015,Rajasthan,Karoli,Annual,2015,1.35,1.2117,0.1383
+D5_1022_2014,Tamil Nadu,Karur,Annual,2014,5.101,3.6281,1.4729
+D5_1022_2015,Tamil Nadu,Karur,Annual,2015,3.983,3.646,0.337
+D5_1023_2014,Tamil Nadu,Namakkal,Annual,2014,5.118,4.2108,0.9072
+D5_1023_2015,Tamil Nadu,Namakkal,Annual,2015,5.041,4.2288,0.8122
+D5_1024_2014,Tamil Nadu,Perambular,Annual,2014,4.831,3.1597,1.6713
+D5_1024_2015,Tamil Nadu,Perambular,Annual,2015,4.557,3.1776,1.3794
+D5_1025_2014,Tamil Nadu,Theni,Annual,2014,5.195,4.3959,0.7991
+D5_1025_2015,Tamil Nadu,Theni,Annual,2015,5.425,4.4138,1.0112
+D5_1026_2014,Tamil Nadu,Tiruvarur,Annual,2014,4.428,2.5917,1.8363
+D5_1026_2015,Tamil Nadu,Tiruvarur,Annual,2015,3.425,2.6096,0.8154
+D5_1027_2014,Tamil Nadu,Thiruvallur,Annual,2014,4.423,3.5783,0.8447
+D5_1027_2015,Tamil Nadu,Thiruvallur,Annual,2015,3.286,3.5962,0.3102
+D5_1028_2014,Uttar Pradesh,Ambedkar Nagar,Annual,2014,2.451,2.4731,0.0221
+D5_1028_2015,Uttar Pradesh,Ambedkar Nagar,Annual,2015,2.111,2.491,0.38
+D5_1029_2014,Uttar Pradesh,Kushi Nagar / Padrauna,Annual,2014,2.142,2.3331,0.1911
+D5_1029_2015,Uttar Pradesh,Kushi Nagar / Padrauna,Annual,2015,1.583,2.351,0.768
+D5_1030_2014,Uttarakhand,Udham Singh Nagar,Annual,2014,3.244,2.941,0.303
+D5_1030_2015,Uttarakhand,Udham Singh Nagar,Annual,2015,3.448,2.9589,0.4891
+D5_1031_2014,Uttar Pradesh,Auraiya,Annual,2014,3.155,2.703,0.452
+D5_1031_2015,Uttar Pradesh,Auraiya,Annual,2015,2.82,2.7209,0.0991
+D5_1032_2014,Uttarakhand,Bageshwar,Annual,2014,1.517,1.4613,0.0557
+D5_1032_2015,Uttarakhand,Bageshwar,Annual,2015,1.397,1.4792,0.0822
+D5_1033_2014,Uttar Pradesh,Bagpat,Annual,2014,2.508,2.6749,0.1669
+D5_1033_2015,Uttar Pradesh,Bagpat,Annual,2015,2.747,2.6928,0.0542
+D5_1034_2014,Uttar Pradesh,Balrampur,Annual,2014,1.835,2.0178,0.1828
+D5_1034_2015,Uttar Pradesh,Balrampur,Annual,2015,1.803,2.0357,0.2327
+D5_1035_2014,Uttarakhand,Champavat,Annual,2014,1.298,1.3231,0.0251
+D5_1035_2015,Uttarakhand,Champavat,Annual,2015,1.403,1.341,0.062
+D5_1036_2014,Uttar Pradesh,Chandauli,Annual,2014,2.961,2.7123,0.2487
+D5_1036_2015,Uttar Pradesh,Chandauli,Annual,2015,3.085,2.7302,0.3548
+D5_1037_2014,Uttar Pradesh,Chitrakoot,Annual,2014,1.008,1.1136,0.1056
+D5_1037_2015,Uttar Pradesh,Chitrakoot,Annual,2015,0.667,1.1315,0.4645
+D5_1038_2014,Uttar Pradesh,G.B.Nagar,Annual,2014,2.784,2.3978,0.3862
+D5_1038_2015,Uttar Pradesh,G.B.Nagar,Annual,2015,2.616,2.4157,0.2003
+D5_1039_2014,Uttar Pradesh,Hathras,Annual,2014,1.933,2.1116,0.1786
+D5_1039_2015,Uttar Pradesh,Hathras,Annual,2015,1.966,2.1295,0.1635
+D5_1040_2014,Uttar Pradesh,Amroha/J.B.Fulenagar,Annual,2014,2.663,2.334,0.329
+D5_1040_2015,Uttar Pradesh,Amroha/J.B.Fulenagar,Annual,2015,2.257,2.352,0.095
+D5_1041_2014,Uttar Pradesh,Kannauj,Annual,2014,2.379,2.5138,0.1348
+D5_1041_2015,Uttar Pradesh,Kannauj,Annual,2015,2.351,2.5317,0.1807
+D5_1042_2014,Uttar Pradesh,Kushambi,Annual,2014,2.163,2.0399,0.1231
+D5_1042_2015,Uttar Pradesh,Kushambi,Annual,2015,2.119,2.0578,0.0612
+D5_1043_2014,Uttarakhand,Rudraprayag,Annual,2014,1.306,1.4892,0.1832
+D5_1043_2015,Uttarakhand,Rudraprayag,Annual,2015,1.495,1.5071,0.0121
+D5_1044_2014,Uttar Pradesh,Santh Ravi Das Nagar / Bhadoi,Annual,2014,2.214,1.9653,0.2487
+D5_1044_2015,Uttar Pradesh,Santh Ravi Das Nagar / Bhadoi,Annual,2015,2.076,1.9832,0.0928
+D5_1045_2014,Uttar Pradesh,Santh Kabir Nagar,Annual,2014,1.788,2.0119,0.2239
+D5_1045_2015,Uttar Pradesh,Santh Kabir Nagar,Annual,2015,1.755,2.0298,0.2748
+D5_1046_2014,Uttar Pradesh,Shravasti,Annual,2014,2.175,1.9416,0.2334
+D5_1046_2015,Uttar Pradesh,Shravasti,Annual,2015,1.95,1.9595,0.0095
+D5_1047_2014,Assam,Bongaigaon,Annual,2014,2.194,1.3494,0.8446
+D5_1047_2015,Assam,Bongaigaon,Annual,2015,1.804,1.3674,0.4366
+D5_1048_2014,Assam,Dhemaji,Annual,2014,1.54,1.4322,0.1078
+D5_1048_2015,Assam,Dhemaji,Annual,2015,1.457,1.4501,0.0069
+D5_1049_2014,Assam,Hailakandi,Annual,2014,2.786,2.1032,0.6828
+D5_1049_2015,Assam,Hailakandi,Annual,2015,2.372,2.1212,0.2508
+D5_1050_2014,Assam,Marigaon,Annual,2014,2.382,1.8178,0.5642
+D5_1050_2015,Assam,Marigaon,Annual,2015,2.368,1.8357,0.5323
+D5_1051_2014,Assam,Tinsukia,Annual,2014,1.662,1.6713,0.0093
+D5_1051_2015,Assam,Tinsukia,Annual,2015,1.829,1.6892,0.1398
+D5_1055_2014,Chhattisgarh,Dantewara,Annual,2014,1.865,1.3525,0.5125
+D5_1055_2015,Chhattisgarh,Dantewara,Annual,2015,0.72,1.3704,0.6504
+D5_1056_2014,Chhattisgarh,Dhamtari,Annual,2014,3.131,1.7548,1.3762
+D5_1056_2015,Chhattisgarh,Dhamtari,Annual,2015,1.813,1.7727,0.0403
+D5_1057_2014,Madhya Pradesh,Dindori,Annual,2014,1.775,0.8483,0.9267
+D5_1057_2015,Madhya Pradesh,Dindori,Annual,2015,1.245,0.8662,0.3788
+D5_1058_2014,Madhya Pradesh,Harda,Annual,2014,1.714,1.6017,0.1123
+D5_1058_2015,Madhya Pradesh,Harda,Annual,2015,1.557,1.6197,0.0627
+D5_1059_2014,Chhattisgarh,Janjgir,Annual,2014,3.163,1.7766,1.3864
+D5_1059_2015,Chhattisgarh,Janjgir,Annual,2015,2.822,1.7945,1.0275
+D5_1060_2014,Madhya Pradesh,Barwani,Annual,2014,2.0,0.6269,1.3731
+D5_1060_2015,Madhya Pradesh,Barwani,Annual,2015,0.67,0.6448,0.0252
+D5_1061_2014,Madhya Pradesh,Katni,Annual,2014,1.428,0.8392,0.5888
+D5_1061_2015,Madhya Pradesh,Katni,Annual,2015,1.422,0.8571,0.5649
+D5_1062_2014,Madhya Pradesh,Neemuch,Annual,2014,0.0,0.3229,0.3229
+D5_1062_2015,Madhya Pradesh,Neemuch,Annual,2015,0.0,0.3408,0.3408
+D5_1063_2014,Madhya Pradesh,Sheopur Kalan,Annual,2014,2.246,2.1009,0.1451
+D5_1063_2015,Madhya Pradesh,Sheopur Kalan,Annual,2015,3.474,2.1188,1.3552
+D5_1064_2014,Madhya Pradesh,Umaria,Annual,2014,1.673,0.7196,0.9534
+D5_1064_2015,Madhya Pradesh,Umaria,Annual,2015,1.795,0.7375,1.0575
+D5_1065_2014,Chhattisgarh,Koriya,Annual,2014,1.784,1.2596,0.5244
+D5_1065_2015,Chhattisgarh,Koriya,Annual,2015,0.733,1.2775,0.5445
+D5_1066_2014,Chhattisgarh,Jashpur,Annual,2014,1.607,1.2551,0.3519
+D5_1066_2015,Chhattisgarh,Jashpur,Annual,2015,0.899,1.273,0.374
+D5_1067_2014,Chhattisgarh,Korba,Annual,2014,1.503,1.2345,0.2685
+D5_1067_2015,Chhattisgarh,Korba,Annual,2015,0.788,1.2524,0.4644
+D5_1068_2014,Chhattisgarh,Kawardha,Annual,2014,1.357,1.2396,0.1174
+D5_1068_2015,Chhattisgarh,Kawardha,Annual,2015,1.002,1.2576,0.2556
+D5_1069_2014,Chhattisgarh,Mahasmund,Annual,2014,1.871,1.3381,0.5329
+D5_1069_2015,Chhattisgarh,Mahasmund,Annual,2015,1.443,1.356,0.087
+D5_1070_2014,Chhattisgarh,Kanker,Annual,2014,2.671,1.5706,1.1004
+D5_1070_2015,Chhattisgarh,Kanker,Annual,2015,1.22,1.5885,0.3685
+D5_1071_2014,Madhya Pradesh,Anuppur,Annual,2014,1.931,0.9213,1.0097
+D5_1071_2015,Madhya Pradesh,Anuppur,Annual,2015,1.565,0.9392,0.6258
+D5_1072_2014,Maharashtra,Gondia,Annual,2014,2.008,1.3923,0.6157
+D5_1072_2015,Maharashtra,Gondia,Annual,2015,1.588,1.4102,0.1778
+D5_1073_2014,Maharashtra,Hingoli,Annual,2014,0.0,0.6757,0.6757
+D5_1073_2015,Maharashtra,Hingoli,Annual,2015,0.0,0.6936,0.6936
+D5_1074_2014,Maharashtra,Nandurbar,Annual,2014,0.495,1.0833,0.5883
+D5_1074_2015,Maharashtra,Nandurbar,Annual,2015,0.915,1.1013,0.1863
+D5_1075_2014,Maharashtra,Washim,Annual,2014,0.0,0.8111,0.8111
+D5_1075_2015,Maharashtra,Washim,Annual,2015,0.0,0.829,0.829
+D5_1077_2014,Tamil Nadu,Ariyalur,Annual,2014,5.03,3.5674,1.4626
+D5_1077_2015,Tamil Nadu,Ariyalur,Annual,2015,5.087,3.5853,1.5017
+D5_1080_2014,Tamil Nadu,Krishnagiri,Annual,2014,4.885,3.3913,1.4937
+D5_1080_2015,Tamil Nadu,Krishnagiri,Annual,2015,4.485,3.4092,1.0758
+D5_1081_2014,Madhya Pradesh,Ashoknagar,Annual,2014,1.665,0.8852,0.7798
+D5_1081_2015,Madhya Pradesh,Ashoknagar,Annual,2015,1.665,0.9031,0.7619
+D5_1082_2014,Madhya Pradesh,Burhanpur,Annual,2014,0.0,1.1722,1.1722
+D5_1082_2015,Madhya Pradesh,Burhanpur,Annual,2015,0.0,1.1901,1.1901
+D5_2001_2014,Gujarat,Tapi,Annual,2014,2.501,1.8347,0.6663
+D5_2001_2015,Gujarat,Tapi,Annual,2015,2.1,1.8527,0.2473
+D5_2002_2014,Haryana,Mewat,Annual,2014,3.143,2.7444,0.3986
+D5_2002_2015,Haryana,Mewat,Annual,2015,3.2,2.7624,0.4376
+D5_2003_2014,Haryana,Palwal,Annual,2014,2.676,2.795,0.119
+D5_2003_2015,Haryana,Palwal,Annual,2015,2.232,2.8129,0.5809
+D5_2004_2014,Karnataka,Ramanagaram,Annual,2014,2.423,2.7505,0.3275
+D5_2004_2015,Karnataka,Ramanagaram,Annual,2015,2.31,2.7684,0.4584
+D5_2005_2014,Karnataka,Chikkaballapur,Annual,2014,2.383,2.9397,0.5567
+D5_2005_2015,Karnataka,Chikkaballapur,Annual,2015,2.722,2.9576,0.2356
+D5_2006_2014,Madhya Pradesh,Alirajpur,Annual,2014,0.934,0.7109,0.2231
+D5_2006_2015,Madhya Pradesh,Alirajpur,Annual,2015,1.066,0.7288,0.3372
+D5_2007_2014,Madhya Pradesh,Singrauli,Annual,2014,1.773,0.7735,0.9995
+D5_2007_2015,Madhya Pradesh,Singrauli,Annual,2015,1.917,0.7914,1.1256
+D5_2009_2014,Punjab,Taran Taran,Annual,2014,3.068,3.1853,0.1173
+D5_2009_2015,Punjab,Taran Taran,Annual,2015,2.831,3.2033,0.3723
+D5_2010_2014,Punjab,Barnala,Annual,2014,4.694,4.4991,0.1949
+D5_2010_2015,Punjab,Barnala,Annual,2015,4.645,4.517,0.128
+D5_2011_2014,Punjab,S.A.S Nagar,Annual,2014,3.241,3.5197,0.2787
+D5_2011_2015,Punjab,S.A.S Nagar,Annual,2015,3.742,3.5376,0.2044
+D5_2012_2014,Rajasthan,Pratapgarh,Annual,2014,2.18,1.4006,0.7794
+D5_2012_2015,Rajasthan,Pratapgarh,Annual,2015,2.035,1.4185,0.6165
+D5_2013_2014,Uttar Pradesh,Kasganj/Khansi Ram Nagar,Annual,2014,2.389,2.2763,0.1127
+D5_2013_2015,Uttar Pradesh,Kasganj/Khansi Ram Nagar,Annual,2015,1.917,2.2943,0.3773
+D5_2014_2014,Chhattisgarh,Bijapur,Annual,2014,1.873,1.1048,0.7682
+D5_2014_2015,Chhattisgarh,Bijapur,Annual,2015,0.935,1.1227,0.1877
+D5_2015_2014,Chhattisgarh,Narayanpur,Annual,2014,1.77,1.345,0.425
+D5_2015_2015,Chhattisgarh,Narayanpur,Annual,2015,0.706,1.3629,0.6569
+D5_2017_2014,Assam,Udalguri,Annual,2014,1.745,1.3357,0.4093
+D5_2017_2015,Assam,Udalguri,Annual,2015,1.941,1.3536,0.5874
+D5_2018_2014,Assam,Baksa,Annual,2014,2.2,1.6311,0.5689
+D5_2018_2015,Assam,Baksa,Annual,2015,2.09,1.649,0.441
+D5_2019_2014,Assam,Chirang,Annual,2014,1.6,1.3669,0.2331
+D5_2019_2015,Assam,Chirang,Annual,2015,1.712,1.3848,0.3272
+D5_2020_2014,Tamil Nadu,Thiruppur,Annual,2014,5.744,3.6814,2.0626
+D5_2020_2015,Tamil Nadu,Thiruppur,Annual,2015,4.523,3.6993,0.8237
+D5_2023_2014,Jharkhand,Khunti,Annual,2014,2.026,1.395,0.631
+D5_2023_2015,Jharkhand,Khunti,Annual,2015,0.85,1.413,0.563
+D5_2024_2014,Jharkhand,Ramgadh,Annual,2014,2.254,3.5729,1.3189
+D5_2024_2015,Jharkhand,Ramgadh,Annual,2015,0.555,3.5908,3.0358
+D5_2025_2014,Karnataka,Yadagiri,Annual,2014,2.65,2.1808,0.4692
+D5_2025_2015,Karnataka,Yadagiri,Annual,2015,2.011,2.1987,0.1877
+D5_2026_2014,Uttar Pradesh,Amethi/C.S.M. Nagar,Annual,2014,1.518,2.1929,0.6749
+D5_2026_2015,Uttar Pradesh,Amethi/C.S.M. Nagar,Annual,2015,1.967,2.2109,0.2439
+D5_2028_2014,Assam,Kamrup (Metro),Annual,2014,2.217,2.1693,0.0477
+D5_2028_2015,Assam,Kamrup (Metro),Annual,2015,2.339,2.1873,0.1517
+D5_2030_2014,Punjab,Pathankot,Annual,2014,2.483,1.7822,0.7008
+D5_2030_2015,Punjab,Pathankot,Annual,2015,3.143,1.8001,1.3429
+D5_2031_2014,Uttar Pradesh,Sambhal,Annual,2014,2.189,2.1978,0.0088
+D5_2031_2015,Uttar Pradesh,Sambhal,Annual,2015,2.301,2.2157,0.0853
+D5_2032_2014,Uttar Pradesh,Shamli,Annual,2014,2.645,2.2722,0.3728
+D5_2032_2015,Uttar Pradesh,Shamli,Annual,2015,2.498,2.2901,0.2079
+D5_2033_2014,Uttar Pradesh,Hapur,Annual,2014,2.951,2.4501,0.5009
+D5_2033_2015,Uttar Pradesh,Hapur,Annual,2015,2.836,2.468,0.368
+D5_2034_2014,Chhattisgarh,Balod,Annual,2014,1.897,1.7212,0.1758
+D5_2034_2015,Chhattisgarh,Balod,Annual,2015,1.088,1.7392,0.6512
+D5_2035_2014,Chhattisgarh,Baloda Bazar,Annual,2014,1.61,1.3845,0.2255
+D5_2035_2015,Chhattisgarh,Baloda Bazar,Annual,2015,1.419,1.4024,0.0166
+D5_2036_2014,Chhattisgarh,Balrampur,Annual,2014,1.823,1.4384,0.3846
+D5_2036_2015,Chhattisgarh,Balrampur,Annual,2015,1.126,1.4563,0.3303
+D5_2037_2014,Chhattisgarh,Bemetra,Annual,2014,1.708,1.6698,0.0382
+D5_2037_2015,Chhattisgarh,Bemetra,Annual,2015,1.436,1.6877,0.2517
+D5_2038_2014,Chhattisgarh,Gariaband,Annual,2014,1.696,1.369,0.327
+D5_2038_2015,Chhattisgarh,Gariaband,Annual,2015,0.749,1.3869,0.6379
+D5_2039_2014,Chhattisgarh,Kondagaon,Annual,2014,1.928,1.3255,0.6025
+D5_2039_2015,Chhattisgarh,Kondagaon,Annual,2015,1.108,1.3435,0.2355
+D5_2040_2014,Chhattisgarh,Mungli,Annual,2014,2.029,1.7842,0.2448
+D5_2040_2015,Chhattisgarh,Mungli,Annual,2015,2.183,1.8021,0.3809
+D5_2041_2014,Chhattisgarh,Sukma,Annual,2014,2.222,1.4364,0.7856
+D5_2041_2015,Chhattisgarh,Sukma,Annual,2015,1.279,1.4544,0.1754
+D5_2042_2014,Chhattisgarh,Surajpur,Annual,2014,1.839,1.4869,0.3521
+D5_2042_2015,Chhattisgarh,Surajpur,Annual,2015,1.256,1.5048,0.2488
+D5_2043_2014,Punjab,Fazilka,Annual,2014,3.062,1.7822,1.2798
+D5_2043_2015,Punjab,Fazilka,Annual,2015,2.865,1.8001,1.0649
+D5_2050_2014,Gujarat,Aravalli,Annual,2014,0.309,1.3835,1.0745
+D5_2050_2015,Gujarat,Aravalli,Annual,2015,1.164,1.4014,0.2374
+D5_2051_2014,Gujarat,Botad,Annual,2014,0.0,1.3835,1.3835
+D5_2051_2015,Gujarat,Botad,Annual,2015,0.0,1.4014,1.4014
+D5_2052_2014,Gujarat,Chhota Udaipur,Annual,2014,1.399,1.3835,0.0155
+D5_2052_2015,Gujarat,Chhota Udaipur,Annual,2015,1.411,1.4014,0.0096
+D5_2053_2014,Gujarat,Devbhoomi Dwarka,Annual,2014,0.0,1.3835,1.3835
+D5_2053_2015,Gujarat,Devbhoomi Dwarka,Annual,2015,0.0,1.4014,1.4014
+D5_2054_2014,Gujarat,Gir Somnath,Annual,2014,0.0,1.3835,1.3835
+D5_2054_2015,Gujarat,Gir Somnath,Annual,2015,0.0,1.4014,1.4014
+D5_2055_2014,Gujarat,Mahisagar,Annual,2014,1.502,1.3835,0.1185
+D5_2055_2015,Gujarat,Mahisagar,Annual,2015,1.732,1.4014,0.3306
+D5_2056_2014,Gujarat,Morbi,Annual,2014,0.0,1.3835,1.3835
+D5_2056_2015,Gujarat,Morbi,Annual,2015,0.0,1.4014,1.4014
+D5_2058_2014,Madhya Pradesh,Agar Malwa,Annual,2014,0.0,1.0609,1.0609
+D5_2058_2015,Madhya Pradesh,Agar Malwa,Annual,2015,0.0,1.0789,1.0789
+D5_2059_2014,Maharashtra,Palghar,Annual,2014,2.517,1.1365,1.3805
+D5_2059_2015,Maharashtra,Palghar,Annual,2015,2.31,1.1544,1.1556
+D5_2060_2014,West Bengal,Alipurduar,Annual,2014,0.0,2.4829,2.4829
+D5_2060_2015,West Bengal,Alipurduar,Annual,2015,0.0,2.5008,2.5008

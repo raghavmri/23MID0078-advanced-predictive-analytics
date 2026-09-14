@@ -1,0 +1,4 @@
+model,seconds,accuracy,macro_precision,macro_recall,macro_F1
+forest,0.1127,0.9955,0.9957,0.9955,0.9955
+logistic,0.0389,0.9727,0.973,0.9727,0.9726
+majority,0.006,0.0455,0.0021,0.0455,0.004

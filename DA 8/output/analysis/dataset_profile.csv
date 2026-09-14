@@ -1,0 +1,4 @@
+split,years,rows,unique_districts,unique_states,mean_yield,std_yield,min_yield,max_yield
+train,1990-2011,10541,545,20,1.7358,1.0104,0.0,9.75
+validation,2012-2013,1096,544,20,2.1922,1.1138,0.0,6.64
+test,2014-2015,1114,552,20,2.1212,1.1893,0.0,5.856
